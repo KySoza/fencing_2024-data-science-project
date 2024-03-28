@@ -1,3 +1,3 @@
-INSERT INTO october_business.ajslim_fencingactions_tags (id, name, created_at, updated_at) VALUES (1, 'In preparation', '2018-11-08 13:20:27', '2018-11-08 13:20:27');
-INSERT INTO october_business.ajslim_fencingactions_tags (id, name, created_at, updated_at) VALUES (2, 'Attack no - Attack', '2018-11-08 13:20:27', '2018-11-08 13:20:27');
-INSERT INTO october_business.ajslim_fencingactions_tags (id, name, created_at, updated_at) VALUES (3, 'Separating Attacks', '2018-11-08 13:20:27', '2018-11-08 13:20:27');
+version https://git-lfs.github.com/spec/v1
+oid sha256:69014989c62b2a6efd372d5ad6a8e2e48d2e3677978683eb9c6f092b93bb9bc6
+size 508

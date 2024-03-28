@@ -1,5 +1,3 @@
-INSERT INTO october_business.ajslim_fencingactions_vote_comments (id, name, created_at, updated_at) VALUES (1, 'No comment', null, null);
-INSERT INTO october_business.ajslim_fencingactions_vote_comments (id, name, created_at, updated_at) VALUES (2, 'Not an action (clip doesn''t have a halt, fencers only testing, etc.)', null, null);
-INSERT INTO october_business.ajslim_fencingactions_vote_comments (id, name, created_at, updated_at) VALUES (3, 'Fencers listed on wrong sides', null, null);
-INSERT INTO october_business.ajslim_fencingactions_vote_comments (id, name, created_at, updated_at) VALUES (4, 'Incorrect fencers listed', null, null);
-INSERT INTO october_business.ajslim_fencingactions_vote_comments (id, name, created_at, updated_at) VALUES (5, 'Incorect bout details', null, null);
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0b0889a00002e1a7bdfea795743fcfc45c1353f4794687240de466c6d14a05
+size 792
