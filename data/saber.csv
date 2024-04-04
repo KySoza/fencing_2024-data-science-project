@@ -1,505 +1,353 @@
-,Unnamed: 0,stats_id,weapon,initiated,strip_location,body_location,created_date
-5,5,SpotlessBoldBarnswallow,sabre,fotr,middle,head,1592344478
-6,6,ThankfulUnsteadyCockerspaniel,sabre,fotr,fotl_half,torso,1592344528
-62,62,HeartyFemaleGrayfox,sabre,fotl,middle,head,1595004175
-63,63,FlatShrillIndianhare,sabre,fotr,fotl_warning_box,torso,1595004497
-66,66,WateryShinyBagworm,sabre,fotr,middle,front_arm,1595345820
-79,79,FrayedPracticalAmphibian,sabre,fotr,middle,torso,1595570751
-80,80,ThreadbareThirdIggypops,sabre,fotr,fotl_half,hand,1595584715
-86,86,FailingPassionateGadwall,sabre,fotr,middle,hand,1595605174
-87,87,GlitteringFriendlyGannet,sabre,fotr,fotl_warning_box,torso,1595605218
-89,89,SpicyFearfulGar,sabre,fotl,middle,torso,1595606402
-101,1,MaleCharmingCub,sabre,fotr,middle,torso,1603456629
-102,2,DelayedDefenselessArctichare,sabre,neither,middle,head,1603456695
-103,3,UnrealisticElaborateAlligator,sabre,fotl,middle,torso,1603456741
-107,7,FreeDirectAdder,sabre,fotl,middle,front_arm,1603468572
-108,8,PartialImmediateGreatargus,sabre,fotr,fotl_warning_box,hand,1603479584
-113,13,DefinitePolishedGrasshopper,sabre,fotr,fotl_half,front_arm,1603485350
-116,16,ActualFreeGuppy,sabre,fotr,middle,torso,1603501233
-117,17,ElderlyFrailHermitcrab,sabre,fotr,middle,hand,1603501257
-124,24,SpecificFickleArrowcrab,sabre,fotl,fotl_half,front_arm,1603646203
-133,33,RespectfulInexperiencedFlycatcher,sabre,fotl,middle,front_arm,1603980341
-134,34,SpicyPrestigiousBordercollie,sabre,fotr,middle,front_arm,1604023697
-136,36,PassionateChillyCaribou,sabre,fotl,middle,torso,1604067550
-142,42,ShallowAncientCrownofthornsstarfish,sabre,fotl,middle,head,1604499584
-146,46,ImmenseLeadingHypsilophodon,sabre,fotr,middle,front_arm,1604887335
-149,49,DarlingPlainLiger,sabre,fotr,middle,torso,1605104679
-154,54,PlumpDetailedArmyworm,sabre,fotr,fotl_half,head,1605499790
-164,64,SecondKindheartedGraysquirrel,sabre,fotr,middle,front_arm,1605935132
-167,67,MeatyOddballCanvasback,sabre,fotr,fotl_half,torso,1606152312
-169,69,PointlessYawningArgentineruddyduck,sabre,fotl,fotr_half,front_arm,1606288707
-174,74,HairyDearDutchsmoushond,sabre,fotl,middle,front_arm,1606572148
-175,75,IncredibleThisFallowdeer,sabre,fotl,fotr_half,front_arm,1606762986
-176,76,HollowPepperyArieltoucan,sabre,fotl,middle,torso,1606782263
-177,77,AridFrankBernesemountaindog,sabre,fotr,middle,torso,1606782346
-182,82,LimpEdibleAngelwingmussel,sabre,fotr,middle,head,1607095780
-185,85,AnotherReliableAfricanfisheagle,sabre,fotr,fotl_warning_box,torso,1607359329
-188,88,WanFoolhardyGrayfox,sabre,fotr,middle,front_arm,1607703726
-197,97,VainHandyElephantbeetle,sabre,fotr,middle,torso,1608650498
-202,2,CaringFickleHornet,sabre,fotr,fotl_half,torso,1608993957
-206,6,GeneralHomelyFrog,sabre,fotr,middle,head,1609341553
-207,7,ShoddySleepyDeviltasmanian,sabre,fotl,middle,torso,1609364002
-208,8,HopefulPiercingAnnelid,sabre,,fotl_warning_box,hand,1609364033
-218,18,ShorttermGrizzledLeech,sabre,fotl,middle,head,1609934814
-221,21,ScornfulWeeCleanerwrasse,sabre,fotl,fotl_half,torso,1610135335
-224,24,HatefulJubilantKillifish,sabre,fotl,fotr_warning_box,hand,1610358830
-239,39,SafeAgitatedIberianmidwifetoad,sabre,fotl,fotr_half,front_arm,1611326037
-264,64,WhirlwindFavoriteCleanerwrasse,sabre,fotr,fotl_half,head,1611845051
-273,73,SmugEsteemedHalcyon,sabre,fotr,middle,hand,1612280604
-275,75,WhimsicalIlliterateAmericanblackvulture,sabre,fotl,middle,head,1612450826
-276,76,FamousAffectionateAgama,sabre,fotl,fotr_half,torso,1612537694
-279,79,FalseQuaintBuffalo,sabre,fotr,fotl_half,torso,1612799006
-287,87,ChillyDopeyBluegill,sabre,fotl,middle,head,1613551949
-289,89,AbleIllBluemorphobutterfly,sabre,fotr,middle,head,1613553092
-290,90,ElaborateGleefulLarva,sabre,,fotl_warning_box,hand,1613662772
-294,94,WellwornKindAvians,sabre,fotl,fotr_half,torso,1613663326
-295,95,UnlinedPleasingKoalabear,sabre,fotl,middle,hand,1613663360
-300,0,UltimateGlitteringHeifer,sabre,fotr,middle,front_arm,1613663593
-302,2,SelfishPeacefulAfricanbushviper,sabre,fotr,fotl_half,front_arm,1613663658
-303,3,CheapObeseAlbertosaurus,sabre,fotl,middle,front_arm,1613760905
-304,4,HorribleUnsteadyCrossbill,sabre,fotl,middle,front_arm,1613760960
-306,6,OrneryCautiousCuttlefish,sabre,fotl,fotr_half,torso,1613761022
-316,16,JealousDimpledJellyfish,sabre,fotr,fotl_half,torso,1613818915
-326,26,HalfLoathsomeBillygoat,sabre,fotl,middle,front_arm,1614262414
-334,34,TameAnyConey,sabre,fotr,middle,front_arm,1614413542
-340,40,HarmoniousMeekLeafbird,sabre,fotl,fotr_warning_box,back_arm,1614413730
-346,46,ClassicFarBarebirdbat,sabre,fotr,middle,front_arm,1614519513
-347,47,OldfashionedFluidAmazontreeboa,sabre,fotr,fotr_half,torso,1614519578
-363,63,UncommonCompleteBassethound,sabre,fotl,middle,front_arm,1615045105
-365,65,HonestZigzagBetafish,sabre,fotl,middle,front_arm,1615124605
-369,69,EcstaticAliveBullmastiff,sabre,fotl,middle,front_arm,1615124715
-384,84,LargeMagnificentGuineafowl,sabre,fotl,fotr_half,head,1615520255
-388,88,TenderElatedFunnelweaverspider,sabre,fotr,fotl_half,torso,1615520551
-408,8,EnchantingCommonArchaeopteryx,sabre,fotr,fotl_half,front_arm,1617062303
-411,11,ShamefulScientificDarklingbeetle,sabre,neither,middle,torso,1617540822
-414,14,FeminineOldfashionedCornsnake,sabre,fotl,fotl_warning_box,hand,1617857475
-415,15,BlackCanineGiraffe,sabre,,fotl_warning_box,head,1618214934
-424,24,ReadyGoodBoutu,sabre,fotr,middle,torso,1619449521
-425,25,BlackCanineGiraffe,sabre,fotr,middle,head,1619763394
-429,29,HandyHardtofindBlacklab,sabre,fotl,fotr_half,hand,1619863394
-436,36,TidyGreatInexpectatumpleco,sabre,fotr,fotl_half,front_arm,1620144262
-442,42,SmartKindlyCrow,sabre,fotr,fotl_half,front_arm,1620278550
-450,50,EmbarrassedGleefulAlaskanmalamute,sabre,fotl,fotr_half,head,1620757402
-455,55,BlackCanineGiraffe,sabre,fotr,middle,torso,1620856455
-458,58,ForkedFearlessHummingbird,sabre,fotr,fotl_warning_box,torso,1621026252
-490,90,AdorableMellowBluetickcoonhound,sabre,fotr,middle,head,1621542147
-962,62,DearestLargeIrishdraughthorse,sabre,,fotl_warning_box,hand,1622010244
-1475,75,AstonishingMediocreDuckling,sabre,fotr,fotl_warning_box,torso,1623262630
-1548,48,BlankPowerlessComet,sabre,fotl,middle,front_arm,1623877558
-1679,79,JubilantSolidArgusfish,sabre,fotr,fotl_warning_box,front_arm,1624347433
-1832,32,FrayedNegligibleGalapagostortoise,sabre,fotl,fotl_half,torso,1625499998
-1897,97,FrayedNegligibleGalapagostortoise,sabre,fotl,middle,torso,1626195317
-2198,98,AjarPersonalBluejay,sabre,,fotl_half,hand,1629819743
-2357,57,HairyDearDutchsmoushond,sabre,fotl,middle,front_arm,1631814768
-2359,59,PossibleWaryCat,sabre,fotr,fotl_warning_box,front_arm,1631814871
-2363,63,PiercingDeepHarvestmen,sabre,fotl,fotr_half,front_arm,1631815016
-2367,67,ColossalPoliteIrishredandwhitesetter,sabre,fotr,middle,torso,1631815160
-2368,68,VainDiscreteIcelandgull,sabre,fotr,middle,front_arm,1631815182
-2430,30,GrizzledAlarmedAnchovy,sabre,,fotl_warning_box,hand,1632540401
-2433,33,ApprehensiveKindlyApatosaur,sabre,,fotl_warning_box,hand,1632674672
-2434,34,AgreeableFixedBarbet,sabre,neither,fotr_warning_box,hand,1632674709
-2435,35,GroundedSadAssassinbug,sabre,fotl,middle,hand,1632674733
-2496,96,LinearAssuredAffenpinscher,sabre,fotl,middle,front_arm,1633550045
-2497,97,LinearAssuredAffenpinscher,sabre,fotl,middle,front_arm,1633550045
-2511,11,SeriousInexperiencedAmethystsunbird,sabre,neither,middle,torso,1633621830
-2520,20,BeneficialDelightfulGodwit,sabre,,middle,front_arm,1633702901
-2539,39,IcyCookedAmericanredsquirrel,sabre,fotr,fotl_half,front_arm,1634069439
-2550,50,BlackCanineGiraffe,sabre,,fotl_warning_box,hand,1634234591
-2612,12,NeatSilverCaracal,sabre,fotr,fotl_warning_box,torso,1635283600
-2632,32,FamousMeatyAcornbarnacle,sabre,fotl,fotl_warning_box,hand,1635520186
-2729,29,FaroffBronzeKangaroo,sabre,fotr,fotl_warning_box,hand,1636982012
-2753,53,DependentGenuineDodo,sabre,fotr,fotl_warning_box,head,1637340097
-2755,55,EverlastingBitterHochstettersfrog,sabre,fotl,middle,front_arm,1637439787
-2810,10,IdleUnimportantFinwhale,sabre,fotl,fotr_warning_box,front_arm,1637852652
-2842,42,UnconsciousScarceGreathornedowl,sabre,fotl,fotr_warning_box,torso,1638422394
-3026,26,HardtofindNaturalIrrawaddydolphin,sabre,fotl,middle,head,1641953876
-3027,27,PositiveDismalHusky,sabre,fotl,middle,hand,1642000183
-3028,28,BitesizedMintyKitfox,sabre,fotr,middle,front_arm,1642000206
-3029,29,BlackCanineGiraffe,sabre,fotr,middle,head,1642000421
-3137,37,EcstaticActiveBrontosaurus,sabre,fotl,middle,front_leg,1642946900
-3262,62,MediumDangerousChameleon,sabre,fotl,fotr_half,head,1643693901
-3374,74,BruisedIllegalEeve,sabre,fotl,middle,torso,1644870236
-3485,85,MadeupMiniatureKob,sabre,fotl,fotl_warning_box,torso,1645434268
-3499,99,BlackCanineGiraffe,sabre,fotr,middle,front_arm,1645556341
-3519,19,PositiveDismalHusky,sabre,fotr,middle,head,1645811545
-3533,33,SelfishPeacefulAfricanbushviper,sabre,fotr,fotl_half,front_arm,1646180406
-3534,34,MeagerThickAlabamamapturtle,sabre,fotl,middle,head,1646180633
-3713,13,PositiveDismalHusky,sabre,fotr,middle,back_arm,1647707021
-3946,46,OldfashionedWeeArchaeocete,sabre,fotr,middle,torso,1649009445
-3954,54,AcceptableFoolishDarklingbeetle,sabre,neither,middle,torso,1649010095
-4007,7,TangibleVelvetyHellbender,sabre,fotl,middle,front_arm,1649272596
-4063,63,DarkEmbellishedInganue,sabre,fotl,fotr_warning_box,head,1649693668
-4690,90,BlackCanineGiraffe,sabre,fotl,middle,hand,1652636158
-4767,67,BlackCanineGiraffe,sabre,fotr,middle,torso,1653050849
-5046,46,ConsiderateIncompatibleGopher,sabre,fotr,fotl_warning_box,front_arm,1654574778
-5054,54,ChillyDopeyBluegill,sabre,fotr,middle,torso,1654670502
-5056,56,SpeedyDeterminedHare,sabre,fotr,middle,torso,1654670633
-5059,59,DevotedFaroffKronosaurus,sabre,,fotl_warning_box,hand,1654672281
-5124,24,QuerulousShinyAruanas,sabre,fotl,fotr_warning_box,head,1655116872
-5281,81,BossyBowedGalapagosdove,sabre,neither,fotr_half,hand,1656369005
-5284,84,ImperturbablePerkyCurassow,sabre,fotl,middle,head,1656375067
-5384,84,GlamorousLinearGemsbuck,sabre,fotr,middle,torso,1657150229
-5385,85,WildLastingJunebug,sabre,fotr,fotl_half,torso,1657150270
-5433,33,BlackCanineGiraffe,sabre,fotr,fotl_warning_box,torso,1657796504
-5479,79,SpeedyDeterminedHare,sabre,fotr,middle,front_arm,1658414370
-5699,99,MadeupMiniatureKob,sabre,fotl,fotl_warning_box,hand,1660644825
-5700,0,ArcticOpulentHind,sabre,fotr,fotl_warning_box,hand,1660644859
-5701,1,SpeedyDeterminedHare,sabre,fotr,fotl_warning_box,hand,1660645177
-5705,5,OffbeatInfantileGlassfrog,sabre,fotr,fotr_warning_box,hand,1660645314
-5707,7,EuphoricGreedyCockerspaniel,sabre,fotl,fotl_half,head,1660645386
-5886,86,YawningAshamedBrant,sabre,neither,middle,torso,1662301008
-5932,32,BarrenSecondhandAcornwoodpecker,sabre,,fotl_warning_box,hand,1662702061
-5983,83,InsidiousLeafyFrogmouth,sabre,fotr,middle,head,1663079543
-5996,96,BarrenSecondhandAcornwoodpecker,sabre,fotr,middle,torso,1663142186
-6044,44,FeistyTestyDungbeetle,sabre,fotr,fotl_half,torso,1663414839
-6047,47,CriminalDefinitiveCowbird,sabre,fotl,fotr_half,front_arm,1663414975
-6048,48,DirtyPolishedDairycow,sabre,fotr,fotr_half,torso,1663415039
-6051,51,UnfortunateExcitableInganue,sabre,fotr,fotl_warning_box,front_arm,1663415128
-6053,53,NeighboringImpossibleArmedcrab,sabre,fotr,middle,torso,1663415204
-6055,55,InsignificantAdvancedElver,sabre,fotl,middle,head,1663415274
-6056,56,DazzlingAcclaimedDuckbillplatypus,sabre,fotl,middle,front_arm,1663415335
-6057,57,ZanyDentalKitty,sabre,fotl,fotr_half,head,1663415370
-6114,14,BlackCanineGiraffe,sabre,fotr,fotl_warning_box,hand,1664088387
-6126,26,BlackCanineGiraffe,sabre,fotr,middle,head,1664212937
-6251,51,BlackCanineGiraffe,sabre,fotl,middle,front_arm,1665439350
-6252,52,CraftyDishonestAsp,sabre,fotr,fotr_half,hand,1665439384
-6258,58,BlackCanineGiraffe,sabre,fotr,middle,head,1665600621
-6290,90,BarrenSecondhandAcornwoodpecker,sabre,fotr,middle,torso,1666036691
-6339,39,BlackCanineGiraffe,sabre,fotr,middle,front_arm,1666700853
-6407,7,SpeedyDeterminedHare,sabre,fotl,middle,front_arm,1667382745
-6444,44,WeeklyMaleBluejay,sabre,,fotl_half,hand,1667997541
-6480,80,BlackCanineGiraffe,sabre,fotl,middle,torso,1668167977
-6497,97,LazyQueasyArcticduck,sabre,fotl,middle,head,1668236069
-6666,66,AbandonedAptEasternglasslizard,sabre,fotl,middle,front_arm,1669432509
-6688,88,AbandonedOfficialAnophelesmosquito,sabre,fotr,fotl_half,torso,1669674649
-6690,90,AmazingDesertedAtlanticblackgoby,sabre,fotr,middle,torso,1669674806
-6713,13,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1669912773
-6752,52,AbandonedAbandonedFurseal,sabre,fotl,fotl_half,front_arm,1670123897
-6762,62,OpenSharpImago,sabre,fotl,middle,torso,1670166339
-6769,69,FlimsyBoilingAracari,sabre,fotl,middle,front_arm,1670170256
-6771,71,OpulentVengefulEidolonhelvum,sabre,fotr,middle,hand,1670170333
-6773,73,FlashySkinnyHuman,sabre,fotr,fotl_half,torso,1670172177
-6786,86,BarrenDifferentBettong,sabre,fotl,fotr_half,torso,1670174522
-6787,87,AdorableZanyAntbear,sabre,fotr,fotl_warning_box,torso,1670174559
-6792,92,FrenchImpeccableIggypops,sabre,neither,middle,torso,1670174782
-6794,94,UnhealthyWearyIchthyostega,sabre,fotr,middle,torso,1670174882
-6802,2,AlertNiceFrigatebird,sabre,fotr,middle,torso,1670185599
-6803,3,PlasticAlarmedAfricanbushviper,sabre,fotr,fotl_warning_box,front_arm,1670188881
-6804,4,ViciousRepulsiveCowrie,sabre,fotr,middle,front_arm,1670188913
-6805,5,ComplexViciousFantail,sabre,fotl,fotl_warning_box,torso,1670189026
-6813,13,LawfulSeparateDesertpupfish,sabre,fotr,middle,torso,1670195447
-6815,15,SilentDiligentCopperhead,sabre,fotl,fotr_half,front_arm,1670195514
-6819,19,JovialShowyKoi,sabre,fotr,fotl_half,front_arm,1670249921
-6820,20,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1670249975
-6821,21,ConsiderateIncompatibleGopher,sabre,fotr,fotl_warning_box,hand,1670255351
-6822,22,TediousDimwittedGermanshepherd,sabre,fotr,middle,head,1670255393
-6824,24,ThornySillyDuiker,sabre,neither,fotr_warning_box,front_arm,1670282285
-6825,25,HarmoniousHappyIcelandichorse,sabre,fotr,middle,front_arm,1670282343
-6826,26,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,front_arm,1670334926
-6833,33,BlackCanineGiraffe,sabre,fotr,fotr_half,head,1670421417
-6836,36,UnacceptableFoolhardyCollardlizard,sabre,fotl,middle,front_arm,1670441553
-6844,44,SpryDownrightKinglet,sabre,fotr,fotr_half,torso,1670451155
-6847,47,FarBlackandwhiteCanvasback,sabre,fotr,middle,torso,1670451288
-6856,56,BelovedSmallBluejay,sabre,neither,middle,torso,1670451753
-6874,74,PeskyThankfulGerenuk,sabre,fotl,fotr_half,head,1670618814
-6879,79,PlayfulPaleFoal,sabre,fotl,fotr_half,back_arm,1670622339
-6882,82,TeemingGiganticHarrierhawk,sabre,fotl,fotr_half,head,1670622987
-6920,20,ShabbyDearestGermanwirehairedpointer,sabre,fotr,middle,front_arm,1670804356
-6921,21,GregariousVacantDiscus,sabre,fotr,middle,head,1670804432
-6925,25,BrilliantBrokenBassethound,sabre,fotl,middle,front_arm,1670840556
-6951,51,BlackCanineGiraffe,sabre,fotl,middle,torso,1670945098
-7018,18,DifficultDishonestEuropeanpolecat,sabre,fotr,middle,torso,1671486415
-7021,21,CooperativeBothHornedtoad,sabre,fotr,fotl_warning_box,front_arm,1671486589
-7022,22,OfficialOddballBantamrooster,sabre,fotl,fotl_warning_box,front_arm,1671592473
-7023,23,BlackCanineGiraffe,sabre,,fotl_warning_box,head,1672409604
-7027,27,ScrawnyGreedyCirriped,sabre,fotl,middle,hand,1673209793
-7030,30,InfatuatedDeficientGenet,sabre,fotl,middle,front_arm,1673209880
-7041,41,KaleidoscopicTepidBlesbok,sabre,fotr,fotr_half,torso,1673456527
-7043,43,VibrantWeepyGypsymoth,sabre,fotr,fotr_half,head,1673456631
-7045,45,PotableEnchantedBarbet,sabre,fotl,middle,head,1673456708
-7048,48,FaroffJovialHairstreak,sabre,fotr,fotl_half,front_arm,1673456828
-7049,49,FearlessRaggedDwarfmongoose,sabre,fotl,middle,head,1673456912
-7050,50,FluffyReliableArctichare,sabre,fotr,middle,front_arm,1673456951
-7053,53,SeriousWickedAbalone,sabre,fotl,middle,front_arm,1673457074
-7059,59,BlackCanineGiraffe,sabre,fotr,middle,hand,1673596241
-7064,64,DismalGlassAndeancat,sabre,fotr,middle,torso,1673920758
-7067,67,SpryDownrightKinglet,sabre,fotl,fotr_warning_box,front_arm,1674005600
-7077,77,BlackCanineGiraffe,sabre,fotl,middle,torso,1674334784
-7078,78,MisguidedRecklessBillygoat,sabre,fotl,middle,front_arm,1674335034
-7092,92,FrenchIncompatibleCorydorascatfish,sabre,fotl,fotr_half,front_arm,1674944895
-7103,3,ShockingMindlessCuscus,sabre,fotl,fotr_half,head,1674945454
-7106,6,LimpingEssentialBumblebee,sabre,fotl,fotr_half,torso,1674946068
-7114,14,DeepThoseGrizzlybear,sabre,fotr,middle,head,1675111584
-7119,19,BossyBowedGalapagosdove,sabre,fotr,fotl_half,head,1675409772
-7127,27,MagnificentFoolhardyBlackbird,sabre,fotl,middle,torso,1675504252
-7128,28,TanElectricJackal,sabre,fotr,fotl_half,front_arm,1675599741
-7129,29,BossyBowedGalapagosdove,sabre,fotr,fotl_half,torso,1675646610
-7142,42,SpeedyDeterminedHare,sabre,fotr,middle,front_arm,1675722492
-7153,53,ElderlyLawfulAssassinbug,sabre,fotr,fotl_half,torso,1675985715
-7155,55,IgnorantAchingBarbet,sabre,fotr,middle,torso,1675985805
-7156,56,RealMasculineCockatoo,sabre,fotr,middle,torso,1675985834
-7157,57,FlawedWildCirriped,sabre,fotr,middle,torso,1675985854
-7158,58,UntriedVigorousCaterpillar,sabre,fotl,middle,torso,1675985880
-7159,59,InformalDependableLeech,sabre,fotr,fotl_warning_box,head,1675985904
-7166,66,ElderlyLawfulAssassinbug,sabre,fotr,fotl_half,torso,1675995576
-7169,69,AmusedMealyIndusriverdolphin,sabre,fotr,fotl_half,front_arm,1676054087
-7171,71,MildDelayedEnglishpointer,sabre,,fotl_half,head,1676238691
-7178,78,SpeedyDeterminedHare,sabre,fotl,middle,head,1676308711
-7179,79,SpeedyDeterminedHare,sabre,fotl,fotl_half,front_arm,1676398251
-7180,80,OfficialOddballBantamrooster,sabre,fotl,fotl_half,head,1676416497
-7184,84,BarrenSecondhandAcornwoodpecker,sabre,fotr,fotr_warning_box,head,1676675741
-7187,87,SpeedyDeterminedHare,sabre,fotr,fotl_warning_box,front_arm,1676757205
-7196,96,CalculatingFaithfulAiredaleterrier,sabre,fotl,middle,hand,1677114699
-7200,0,GargantuanJointAfricanfisheagle,sabre,fotl,fotl_half,torso,1677213581
-7201,1,SpeedyDeterminedHare,sabre,fotr,middle,front_arm,1677362714
-7202,2,VastDisloyalIriomotecat,sabre,fotr,middle,head,1677445056
-7203,3,PositiveDismalHusky,sabre,fotl,middle,torso,1677457246
-7204,4,NarrowGargantuanBarbet,sabre,fotr,fotl_half,hand,1677457277
-7205,5,ForsakenElasticBasenji,sabre,fotr,fotl_warning_box,front_arm,1677457405
-7206,6,NextQuarrelsomeEstuarinecrocodile,sabre,fotr,fotl_warning_box,front_arm,1677457465
-7211,11,TediousUnitedBurro,sabre,fotr,middle,torso,1677707412
-7212,12,ThornySillyDuiker,sabre,fotl,middle,front_arm,1677707496
-7216,16,AcrobaticEarlyAngelfish,sabre,neither,fotl_warning_box,hand,1678057787
-7219,19,ElderlyLawfulAssassinbug,sabre,fotr,middle,torso,1678995453
-7222,22,InsecureHomelyGazelle,sabre,fotr,middle,torso,1678995600
-7224,24,ElderlyLawfulAssassinbug,sabre,fotr,fotl_half,torso,1679280504
-7226,26,ElderlyLawfulAssassinbug,sabre,fotr,middle,torso,1679606452
-7229,29,SpeedyDeterminedHare,sabre,fotr,middle,torso,1679866131
-7231,31,PoshPotableDuckbillcat,sabre,neither,middle,torso,1679879259
-7232,32,ImportantCheapFoal,sabre,fotr,middle,torso,1679879332
-7248,48,AstonishingMediocreDuckling,sabre,fotr,fotl_warning_box,hand,1680511261
-7251,51,UglyBackCollie,sabre,fotl,fotr_half,torso,1680770998
-7252,52,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1681220359
-7256,56,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,torso,1681732726
-7257,57,SpeedyDeterminedHare,sabre,fotr,fotl_half,hand,1682092976
-7258,58,AbandonedBackGnu,sabre,fotl,middle,torso,1682300107
-7263,63,OrderlyWearyClingfish,sabre,,fotl_warning_box,torso,1682513437
-7266,66,AbandonedAbsoluteGoldfinch,sabre,fotl,fotl_warning_box,front_arm,1683121454
-7268,68,AbandonedAbandonedFurseal,sabre,fotr,middle,torso,1683121538
-7269,69,LegitimateMadeupIrishredandwhitesetter,sabre,fotr,middle,torso,1683121566
-7270,70,AngelicEntireAfricanmolesnake,sabre,fotr,middle,torso,1683121589
-7272,72,TangibleVelvetyHellbender,sabre,fotr,middle,torso,1683121736
-7273,73,ZealousNextElver,sabre,fotl,middle,torso,1683121749
-7274,74,CoordinatedFlippantAndalusianhorse,sabre,fotl,middle,torso,1683121773
-7275,75,HalfExemplaryGoose,sabre,fotl,middle,torso,1683121789
-7278,78,GleamingBrilliantHarvestmouse,sabre,fotl,middle,torso,1683122073
-7279,79,QuarterlyIgnorantFowl,sabre,fotl,fotr_half,torso,1683122089
-7280,80,AbandonedBackGnu,sabre,fotr,middle,torso,1683122136
-7287,87,OffensiveFormalBaiji,sabre,fotl,fotr_half,torso,1683634188
-7288,88,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1683673661
-7289,89,InfiniteImpishClumber,sabre,fotr,fotl_half,torso,1683673699
-7290,90,ImperturbableWateryEuropeanpolecat,sabre,fotr,fotl_warning_box,back_arm,1683673751
-7291,91,UnhappySilentGrayreefshark,sabre,fotr,middle,head,1683673789
-7293,93,AbandonedAptEasternglasslizard,sabre,fotl,fotl_warning_box,head,1684362858
-7294,94,VastDisloyalIriomotecat,sabre,fotr,fotl_warning_box,hand,1684362928
-7303,3,BarrenSecondhandAcornwoodpecker,sabre,neither,middle,front_arm,1684931606
-7307,7,MiserlyThisDiamondbackrattlesnake,sabre,,fotl_warning_box,hand,1685572253
-7309,9,InnocentBoringAlbacoretuna,sabre,,fotl_warning_box,hand,1685572260
-7310,10,OpulentContentDiplodocus,sabre,,fotl_warning_box,hand,1685572266
-7311,11,SingleAbleClam,sabre,,fotl_warning_box,hand,1685572271
-7319,19,ColossalAdorableHarvestmen,sabre,,fotl_warning_box,hand,1685572344
-7322,22,FreePleasingErne,sabre,,fotl_warning_box,hand,1685572354
-7324,24,EntireNeedyBandicoot,sabre,,fotl_warning_box,hand,1685572361
-7326,26,EllipticalRectangularHen,sabre,,fotl_warning_box,hand,1685572367
-7327,27,ShrillFrankIslandcanary,sabre,,fotl_warning_box,hand,1685572371
-7331,31,ScornfulScentedBellfrog,sabre,fotl,fotl_warning_box,hand,1685572404
-7336,36,ThisWhiteBuzzard,sabre,,fotl_warning_box,hand,1685574338
-7338,38,PaltryMammothDobermanpinscher,sabre,,fotl_warning_box,hand,1685574344
-7340,40,AbandonedAbsoluteGoldfinch,sabre,fotl,fotr_half,torso,1685638717
-7344,44,AbandonedOfficialAnophelesmosquito,sabre,fotr,middle,torso,1687187276
-7345,45,PositiveDismalHusky,sabre,fotl,fotl_warning_box,torso,1687728808
-7348,48,AffectionateHopefulLeonberger,sabre,fotl,fotr_half,torso,1688459148
-7351,51,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,front_arm,1688628039
-7354,54,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1688745655
-7355,55,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1688749928
-7363,63,importantLabmaranerBraccoItaliano,sabre,fotl,fotr_half,head,1689282148
-7368,68,BowedFakeBarasinga,sabre,,fotl_warning_box,hand,1690472759
-7369,69,UnluckyConfusedGopher,sabre,,fotl_warning_box,hand,1690472777
-7375,75,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1690681493
-7376,76,AbandonedAbandonedFurseal,sabre,,fotl_warning_box,hand,1691467363
-7382,82,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,torso,1692177598
-7386,86,AbandonedAbandonedFurseal,sabre,neither,fotl_warning_box,hand,1693507296
-7387,87,combativeWoolCarderBeeEnglishLonghornCattle,sabre,fotl,middle,front_arm,1693507341
-7391,91,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1693888037
-7395,95,WetBareElephant,sabre,fotl,fotr_warning_box,hand,1694794299
-7396,96,inquisitivePointerMixTussockMoth,sabre,fotl,middle,head,1694794329
-7398,98,PositiveDismalHusky,sabre,fotr,middle,head,1694908038
-7399,99,ChubbyHeftyGalapagospenguin,sabre,fotl,middle,front_arm,1694908101
-7400,0,ugliestCombJellyfishGiraffe,sabre,fotr,middle,back_arm,1694908268
-7402,2,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,front_arm,1695144162
-7403,3,DelightfulSecondBobwhite,sabre,fotl,middle,back_arm,1695144216
-7404,4,AbandonedAbandonedFurseal,sabre,fotr,middle,hand,1695155543
-7405,5,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1695312653
-7406,6,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,torso,1695316286
-7407,7,ScholarlyUniqueFrillneckedlizard,sabre,fotl,middle,front_arm,1695316579
-7411,11,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1695595782
-7412,12,grievingTentCaterpillarSawfish,sabre,neither,middle,head,1695595829
-7415,15,SpeedyDeterminedHare,sabre,fotr,fotr_half,front_arm,1696226777
-7416,16,MassiveFearlessEastrussiancoursinghounds,sabre,fotl,middle,head,1696226834
-7417,17,VastDisloyalIriomotecat,sabre,fotr,middle,head,1697402843
-7418,18,magnificentLimpetSilverLabrador,sabre,fotr,middle,front_arm,1697402970
-7419,19,EuphoricGiddyGarpike,sabre,fotr,middle,front_arm,1697403058
-7420,20,crowdedChineseCrestedDogInsects,sabre,fotr,middle,front_arm,1697403139
-7421,21,UglyBackCollie,sabre,fotr,fotr_half,front_arm,1697403203
-7422,22,NastyFeistyAdouri,sabre,fotr,fotl_half,front_arm,1697403240
-7423,23,ashamedDoxiepooTenterfieldTerrier,sabre,fotr,fotl_half,torso,1697403293
-7424,24,FineLeafyKittiwake,sabre,fotl,middle,torso,1697403377
-7425,25,RectangularCoarseCrayfish,sabre,fotr,middle,front_arm,1697403449
-7426,26,gleamingOlingoVampireBat,sabre,fotr,middle,front_arm,1697403511
-7427,27,DefensiveDemandingAnaconda,sabre,fotr,middle,front_arm,1697403544
-7428,28,DearestLargeIrishdraughthorse,sabre,fotl,fotl_half,front_arm,1697403597
-7429,29,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1697403816
-7430,30,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,front_arm,1697404084
-7432,32,AlertAnxiousGourami,sabre,fotr,middle,torso,1697978633
-7433,33,MenacingHorribleAldabratortoise,sabre,fotl,middle,torso,1697978743
-7434,34,EarlyTepidAmericanalligator,sabre,fotl,fotl_warning_box,hand,1697978799
-7435,35,WeepyCoarseCaudata,sabre,fotr,middle,torso,1697978849
-7436,36,CraftyTestyBongo,sabre,fotr,fotr_warning_box,front_arm,1697978932
-7437,37,ForcefulGreedyApisdorsatalaboriosa,sabre,fotr,middle,hand,1697978971
-7438,38,AppropriateDisastrousBarnowl,sabre,fotr,middle,torso,1697979020
-7439,39,AngrySimpleIridescentshark,sabre,fotr,middle,front_arm,1697979136
-7440,40,ThosePlumpDogwoodtwigborer,sabre,fotr,middle,front_arm,1697979180
-7441,41,FamiliarGreatButterfly,sabre,fotr,middle,torso,1697979216
-7444,44,SoggyCalmGoa,sabre,fotr,middle,front_arm,1698546862
-7445,45,PinkEssentialAmericanredsquirrel,sabre,fotl,middle,hand,1698546939
-7446,46,InferiorSnarlingJenny,sabre,fotl,fotl_warning_box,torso,1698546999
-7447,47,LastCrazyLiger,sabre,fotl,fotl_half,front_arm,1698547050
-7448,48,ConfusedDesertedGangesdolphin,sabre,fotl,fotl_half,torso,1698547089
-7449,49,JollyConventionalKodiakbear,sabre,fotr,middle,hand,1698547114
-7450,50,PhysicalBadGalapagosmockingbird,sabre,fotl,middle,front_arm,1698547178
-7451,51,ThoseEnviousFoxterrier,sabre,fotl,middle,front_arm,1698547250
-7452,52,UncomfortableNegligibleIzuthrush,sabre,fotr,middle,head,1698547320
-7453,53,EvilLargeGrasshopper,sabre,fotl,fotl_warning_box,front_arm,1698547376
-7455,55,RipeDismalDogwoodtwigborer,sabre,fotr,fotl_warning_box,front_arm,1699209802
-7456,56,WideeyedUnhealthyGopher,sabre,fotr,middle,torso,1699209860
-7457,57,VengefulBlushingLeafhopper,sabre,fotr,middle,front_arm,1699209911
-7458,58,MeatySourClumber,sabre,fotl,middle,front_arm,1699209968
-7459,59,KindheartedPerfectHake,sabre,fotl,middle,front_arm,1699210022
-7460,60,AlertMiniatureFugu,sabre,fotr,fotl_warning_box,torso,1699210103
-7461,61,CompassionateTemptingEquestrian,sabre,fotr,middle,front_arm,1699210256
-7462,62,FemaleSmugCats,sabre,fotl,fotl_warning_box,hand,1699210297
-7463,63,ShimmeringEvilBat,sabre,fotl,middle,front_arm,1699210329
-7464,64,AlienatedVeneratedGoosefish,sabre,fotl,fotl_warning_box,hand,1699210368
-7465,65,ScalyPleasantAmazonparrot,sabre,fotr,middle,torso,1699213888
-7467,67,ShabbyIllustriousAfricanpiedkingfisher,sabre,fotr,middle,torso,1699214111
-7468,68,CautiousAngelicAzurewingedmagpie,sabre,fotl,fotl_half,head,1699214342
-7477,77,ForcefulBonyBilby,sabre,fotl,middle,torso,1699223687
-7481,81,AbandonedAbandonedFurseal,sabre,fotr,middle,head,1699452453
-7483,83,TerrificWildCreature,sabre,fotl,middle,front_arm,1699813246
-7484,84,PastelMenacingDodobird,sabre,fotl,middle,hand,1699813294
-7485,85,PotableShamefulAracari,sabre,fotr,middle,torso,1699813361
-7486,86,TanIllegalDove,sabre,fotr,fotl_half,torso,1699813404
-7487,87,BrokenTenderEquestrian,sabre,fotr,middle,front_arm,1699813488
-7488,88,GlamorousQueasyAdder,sabre,fotl,middle,torso,1699813530
-7489,89,DependableFantasticKookaburra,sabre,fotl,middle,torso,1699813618
-7490,90,SparklingGraveChrysalis,sabre,fotl,middle,torso,1699813688
-7491,91,HairyExcitableDeinonychus,sabre,fotl,fotr_half,torso,1699813811
-7492,92,EthicalCarelessBarnowl,sabre,fotl,fotr_warning_box,torso,1699813900
-7493,93,UnacceptableFatIvorybilledwoodpecker,sabre,fotr,middle,torso,1699813968
-7494,94,FeminineAmazingDotterel,sabre,fotr,fotl_warning_box,front_arm,1699814024
-7495,95,AgonizingBelovedAmericanlobster,sabre,fotr,middle,front_arm,1699814182
-7496,96,ColorlessPreciousFruitfly,sabre,fotr,middle,hand,1699814232
-7499,99,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1700118455
-7500,0,DetailedHardAllensbigearedbat,sabre,fotr,middle,head,1700118520
-7503,3,DistantSparklingAlaskajingle,sabre,fotr,fotr_half,front_arm,1700118645
-7504,4,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,torso,1700132035
-7506,6,ForsakenFaintBlesbok,sabre,fotr,middle,front_arm,1700132105
-7510,10,LateIllCrownofthornsstarfish,sabre,fotr,middle,hand,1700428362
-7511,11,AbsoluteAggravatingDromedary,sabre,fotl,middle,torso,1700428402
-7512,12,ShimmeringAgileAsiaticlesserfreshwaterclam,sabre,fotr,middle,hand,1700428465
-7513,13,EllipticalCluelessIndianspinyloach,sabre,fotr,middle,front_arm,1700428527
-7514,14,WelltodoPerkyJaguar,sabre,fotl,middle,front_arm,1700428581
-7515,15,IllfatedFarflungAlbacoretuna,sabre,fotr,middle,torso,1700428625
-7516,16,GiganticForkedKusimanse,sabre,fotr,middle,torso,1700428667
-7517,17,BlackPotableCurlew,sabre,fotr,fotl_warning_box,torso,1700428713
-7518,18,InnocentBoringAlbacoretuna,sabre,fotl,middle,front_arm,1700428833
-7519,19,SafeFaintBlackrhino,sabre,fotl,middle,torso,1700428915
-7520,20,JampackedEnviousBlackrussianterrier,sabre,fotr,fotr_warning_box,torso,1700428955
-7521,21,DeadlyThisGalapagoshawk,sabre,fotr,middle,front_arm,1700429006
-7522,22,BountifulFondHadrosaurus,sabre,fotr,middle,torso,1700429048
-7523,23,FoolishPossibleFossa,sabre,fotr,fotr_warning_box,foot,1700429090
-7524,24,AbandonedAbandonedFurseal,sabre,fotl,middle,hand,1700630756
-7526,26,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1700691555
-7527,27,AnyComfortableIberianmidwifetoad,sabre,fotr,middle,hand,1700970975
-7528,28,GrimHardtofindCrustacean,sabre,fotr,fotr_warning_box,torso,1700971028
-7529,29,ExcellentJauntyBobcat,sabre,fotl,fotl_half,torso,1700971066
-7530,30,PerfumedTenseAffenpinscher,sabre,fotr,fotr_warning_box,hand,1700971132
-7531,31,ForsakenWarmheartedAustralianshelduck,sabre,fotr,middle,head,1700971186
-7532,32,InnocentPlayfulBlobfish,sabre,fotl,fotl_warning_box,torso,1700971247
-7533,33,InbornFlickeringAsianelephant,sabre,fotr,middle,torso,1700971289
-7534,34,GrayPalatableKoala,sabre,fotl,fotl_half,front_arm,1700971358
-7535,35,ArtisticMessyAfricanpiedkingfisher,sabre,fotr,middle,torso,1700971425
-7536,36,RawEarlyArmyant,sabre,fotr,middle,front_arm,1700971470
-7540,40,AbandonedAbandonedFurseal,sabre,fotr,middle,head,1701352580
-7541,41,PositiveUnfoldedBassethound,sabre,fotr,middle,head,1701645109
-7542,42,HideousRewardingBluetonguelizard,sabre,fotl,fotr_warning_box,torso,1701645212
-7543,43,SpecificImmaculateGardensnake,sabre,fotl,middle,torso,1701645270
-7544,44,SoulfulImpassionedAplomadofalcon,sabre,fotl,fotr_warning_box,torso,1701645371
-7545,45,CleverDaringCockroach,sabre,fotl,middle,torso,1701645420
-7546,46,TeemingEmbarrassedButterfly,sabre,fotr,middle,hand,1701645479
-7547,47,BlandEllipticalAmmonite,sabre,fotl,middle,torso,1701645554
-7548,48,SpectacularNimbleGonolek,sabre,fotl,middle,head,1701645620
-7549,49,IdenticalFelineAngora,sabre,fotr,middle,hand,1701645664
-7550,50,ElegantMiserlyDobermanpinscher,sabre,fotr,middle,hand,1701645700
-7555,55,AbandonedAbandonedFurseal,sabre,fotl,fotl_warning_box,foot,1701960748
-7556,56,DependentTenseAfricangoldencat,sabre,fotl,middle,front_arm,1701960773
-7557,57,goodKnightAnoleDikDik,sabre,fotl,middle,head,1702052283
-7559,59,ThornyKindKingbird,sabre,fotl,middle,torso,1702052440
-7561,61,AbandonedAbandonedFurseal,sabre,fotl,fotl_warning_box,torso,1702487170
-7562,62,VastDisloyalIriomotecat,sabre,fotl,middle,torso,1702565749
-7563,63,CleanScientificGopher,sabre,fotl,fotl_warning_box,hand,1702565797
-7564,64,NervousAchingAyeaye,sabre,fotl,middle,torso,1702573189
-7565,65,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,front_arm,1702663131
-7566,66,hilariousThylacosmilusCarpenterAnt,sabre,fotr,fotl_half,front_arm,1702771712
-7567,67,AbandonedAbandonedFurseal,sabre,,fotl_warning_box,hand,1703149653
-7569,69,AbandonedAbandonedFurseal,sabre,fotl,fotr_half,torso,1703327830
-7578,78,PowerlessCrazyIberianemeraldlizard,sabre,fotl,fotr_warning_box,hand,1703635503
-7579,79,DefiniteSaltyLangur,sabre,fotl,middle,torso,1703635543
-7580,80,BlackEarnestIrishwolfhound,sabre,fotl,middle,torso,1703635592
-7581,81,PortlyPartialAcaciarat,sabre,fotl,fotr_warning_box,torso,1703635670
-7582,82,HandyTatteredAvocet,sabre,fotl,middle,torso,1703635720
-7583,83,NearMammothHectorsdolphin,sabre,fotl,fotr_half,front_arm,1703635801
-7584,84,GraciousUnawareBilby,sabre,fotr,middle,torso,1703635857
-7585,85,FineFatalGlobefish,sabre,fotl,middle,front_arm,1703635940
-7586,86,AntiqueChiefAmethystsunbird,sabre,fotl,middle,torso,1703635983
-7587,87,AbandonedAbandonedFurseal,sabre,fotl,fotl_warning_box,torso,1703895557
-7588,88,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,front_arm,1704313595
-7589,89,IdealDefinitiveGerbil,sabre,fotl,fotr_warning_box,front_arm,1704313632
-7593,93,ImpossibleLimitedArizonaalligatorlizard,sabre,fotr,middle,front_arm,1705804760
-7598,98,LinearElatedDeermouse,sabre,fotl,middle,hand,1705804887
-7601,1,zanyEyelashViperCornSnake,sabre,fotr,middle,front_arm,1705805050
-7603,3,importantZonkeyBatfish,sabre,fotr,middle,front_arm,1705805259
-7605,5,ConsiderateGivingIlladopsis,sabre,fotl,middle,torso,1705805348
-7611,11,MilkySlushyFlounder,sabre,fotl,fotr_warning_box,torso,1705806056
-7614,14,WastefulGratefulAuk,sabre,fotr,fotl_warning_box,head,1705806276
-7616,16,enthusiasticSarplaninacVampireBat,sabre,neither,middle,torso,1705806362
-7627,27,AbandonedAbsoluteGoldfinch,sabre,fotl,middle,torso,1705954762
-7628,28,unsightlyLarderBeetleHarpyEagle,sabre,fotr,middle,torso,1705954801
-7635,35,MelodicYoungGroundhog,sabre,neither,fotl_warning_box,torso,1705955248
-7638,38,RegalGrandAppaloosa,sabre,,fotl_warning_box,hand,1705955337
-7639,39,CanineFalseBluebreastedkookaburra,sabre,,fotl_warning_box,hand,1705955342
-7645,45,AbandonedAbandonedFurseal,sabre,fotr,fotl_half,torso,1706712159
-7649,49,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1706757273
-7650,50,SpeedyDeterminedHare,sabre,fotl,middle,front_arm,1706773002
-7653,53,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1706798005
-7654,54,AbandonedAptEasternglasslizard,sabre,fotl,fotl_warning_box,hand,1706897656
-7655,55,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1706907681
-7656,56,AdoredCautiousGreyhounddog,sabre,fotr,middle,torso,1707121361
-7657,57,AbandonedAptEasternglasslizard,sabre,fotl,middle,torso,1707121492
-7665,65,FamousDistinctBlacklemur,sabre,fotl,fotl_half,torso,1708271942
-7666,66,AbandonedAbsoluteGoldfinch,sabre,fotl,fotl_warning_box,hand,1708426966
-7668,68,CompetentDeterminedAmericanpainthorse,sabre,fotr,middle,torso,1708527279
-7669,69,jealousMuleDeerMealwormBeetle,sabre,fotl,fotr_half,torso,1708527317
-7670,70,ArtisticCreepyJaguarundi,sabre,neither,middle,torso,1708527501
-7671,71,AbandonedAbandonedFurseal,sabre,fotl,middle,torso,1708529035
-7678,78,SpeedyDeterminedHare,sabre,fotl,fotl_half,front_arm,1708953047
-7679,79,SpeedyDeterminedHare,sabre,,fotl_warning_box,hand,1708953343
-7680,80,IncomparableDemandingDormouse,sabre,,fotl_warning_box,hand,1708953409
-7681,81,MiniatureGranularFinnishspitz,sabre,,fotl_warning_box,hand,1708953447
-7686,86,AbandonedAbandonedFurseal,sabre,,fotl_warning_box,hand,1709497726
-7690,90,shyBulldogMixLittleBrownBat,sabre,fotr,middle,torso,1709937430
-7693,93,PastWeeHorsefly,sabre,fotr,fotl_half,front_arm,1710992904
-7694,94,AbandonedAbsoluteGoldfinch,sabre,neither,fotr_half,torso,1711116268
-7695,95,unusualJumpingSpiderSixEyedSandSpiders,sabre,fotr,middle,head,1711116296
-7699,99,AbandonedAbandonedFurseal,sabre,fotr,middle,head,1711392670
-7700,0,GenuineCoarseBushsqueaker,sabre,fotl,middle,head,1711395099
+,Unnamed: 0,stats_id,weapon_x,initiated,strip_location,body_location,created_date,gfycat_gfy_id,tournament_id,weapon_y,gender,fotl_name,fotr_name,left_score,right_score,touch,download_url
+2,5,SpotlessBoldBarnswallow,sabre,fotr,middle,head,1592344478,SpotlessBoldBarnswallow,budapestsabre2019,sabre,male,Iulian Teodosiu,James Honeybone,11,14,right,https://clips.fencingdatabase.com/budapestsabre2019/SpotlessBoldBarnswallow.mp4
+3,6,ThankfulUnsteadyCockerspaniel,sabre,fotr,fotl_half,torso,1592344528,ThankfulUnsteadyCockerspaniel,budapestsabre2019,sabre,male,Veniamin Reshetnikov,James Honeybone,13,14,right,https://clips.fencingdatabase.com/budapestsabre2019/ThankfulUnsteadyCockerspaniel.mp4
+55,62,HeartyFemaleGrayfox,sabre,fotl,middle,head,1595004175,HeartyFemaleGrayfox,cairosabre2019,sabre,male,Vincent Anstett,Daryl Homer,6,4,left,https://clips.fencingdatabase.com/cairosabre2019/HeartyFemaleGrayfox.mp4
+56,63,FlatShrillIndianhare,sabre,fotr,fotl_warning_box,torso,1595004497,FlatShrillIndianhare,budapestsabre2019,sabre,male,Leonardo Dreossi,Luca Curatoli,13,14,right,https://clips.fencingdatabase.com/budapestsabre2019/FlatShrillIndianhare.mp4
+59,66,WateryShinyBagworm,sabre,fotr,middle,front_arm,1595345820,WateryShinyBagworm,seoulsabre2019,sabre,female,Martina Criscio,Olga Nikitina,3,1,left,https://clips.fencingdatabase.com/seoulsabre2019/WateryShinyBagworm.mp4
+69,79,FrayedPracticalAmphibian,sabre,fotr,middle,torso,1595570751,FrayedPracticalAmphibian,cancunsabre2017,sabre,female,Anna Bashta,Emura Misaki,10,15,right,https://clips.fencingdatabase.com/cancunsabre2017/FrayedPracticalAmphibian.mp4
+70,80,ThreadbareThirdIggypops,sabre,fotr,fotl_half,hand,1595584715,ThreadbareThirdIggypops,cancunsabre2017,sabre,female,Arianna Errigo,Takashima Risa,3,2,right,https://clips.fencingdatabase.com/cancunsabre2017/ThreadbareThirdIggypops.mp4
+74,86,FailingPassionateGadwall,sabre,fotr,middle,hand,1595605174,FailingPassionateGadwall,budapestsabre2019,sabre,male,Joseph Polossifakis,Fabien Ballorca,6,7,right,https://clips.fencingdatabase.com/budapestsabre2019/FailingPassionateGadwall.mp4
+75,87,GlitteringFriendlyGannet,sabre,fotr,fotl_warning_box,torso,1595605218,GlitteringFriendlyGannet,budapestsabre2019,sabre,male,Iulian Teodosiu,James Honeybone,7,12,right,https://clips.fencingdatabase.com/budapestsabre2019/GlitteringFriendlyGannet.mp4
+77,89,SpicyFearfulGar,sabre,fotl,middle,torso,1595606402,SpicyFearfulGar,cancunsabre2017,sabre,female,Yoana Ilieva,Edith Johnson,9,11,left,https://clips.fencingdatabase.com/cancunsabre2017/SpicyFearfulGar.mp4
+88,1,MaleCharmingCub,sabre,fotr,middle,torso,1603456629,MaleCharmingCub,cairosabre2019,sabre,male,Ali Pakdaman,Aldo Montano,1,1,right,https://clips.fencingdatabase.com/cairosabre2019/MaleCharmingCub.mp4
+89,2,DelayedDefenselessArctichare,sabre,neither,middle,head,1603456695,DelayedDefenselessArctichare,montrealsabre2020,sabre,male,Sandro Bazadze,Enver Yildirim,11,9,left,https://clips.fencingdatabase.com/montrealsabre2020/DelayedDefenselessArctichare.mp4
+90,3,UnrealisticElaborateAlligator,sabre,fotl,middle,torso,1603456741,UnrealisticElaborateAlligator,cancunsabre2017,sabre,female,Chloe Foxgitomer,Caroline Queroli,5,4,left,https://clips.fencingdatabase.com/cancunsabre2017/UnrealisticElaborateAlligator.mp4
+94,7,FreeDirectAdder,sabre,fotl,middle,front_arm,1603468572,FreeDirectAdder,cairosabre2019,sabre,male,Eli Dershwitz,Jung Jaeseung,8,9,right,https://clips.fencingdatabase.com/cairosabre2019/FreeDirectAdder.mp4
+95,8,PartialImmediateGreatargus,sabre,fotr,fotl_warning_box,hand,1603479584,PartialImmediateGreatargus,budapestsabre2019,sabre,male,Mohammad Fotouhi,Tiberiu Dolniceanu,12,15,right,https://clips.fencingdatabase.com/budapestsabre2019/PartialImmediateGreatargus.mp4
+100,13,DefinitePolishedGrasshopper,sabre,fotr,fotl_half,front_arm,1603485350,DefinitePolishedGrasshopper,seoulsabre2019,sabre,female,Teodora Kakhiani,Shao Yaqi,10,14,right,https://clips.fencingdatabase.com/seoulsabre2019/DefinitePolishedGrasshopper.mp4
+103,16,ActualFreeGuppy,sabre,fotr,middle,torso,1603501233,ActualFreeGuppy,seoulsabre2019,sabre,female,Anna Limbach,Shao Yaqi,1,3,right,https://clips.fencingdatabase.com/seoulsabre2019/ActualFreeGuppy.mp4
+104,17,ElderlyFrailHermitcrab,sabre,fotr,middle,hand,1603501257,ElderlyFrailHermitcrab,seoulsabre2019,sabre,female,Rossella Gregorio,Manon Apithy - Brunet,3,5,right,https://clips.fencingdatabase.com/seoulsabre2019/ElderlyFrailHermitcrab.mp4
+111,24,SpecificFickleArrowcrab,sabre,fotl,fotl_half,front_arm,1603646203,SpecificFickleArrowcrab,budapestsabre2019,sabre,male,Gu Bongil,Mojtaba Abedini,10,10,right,https://clips.fencingdatabase.com/budapestsabre2019/SpecificFickleArrowcrab.mp4
+120,33,RespectfulInexperiencedFlycatcher,sabre,fotl,middle,front_arm,1603980341,RespectfulInexperiencedFlycatcher,moscowsabre2012,sabre,,Bolade Apithy,Kamil Ibragimov,11,3,double,https://clips.fencingdatabase.com/moscowsabre2012/RespectfulInexperiencedFlycatcher.mp4
+121,34,SpicyPrestigiousBordercollie,sabre,fotr,middle,front_arm,1604023697,SpicyPrestigiousBordercollie,moscowsabre2012,sabre,,Chen Xiaodong,Mariel Zagunis,8,2,double,https://clips.fencingdatabase.com/moscowsabre2012/SpicyPrestigiousBordercollie.mp4
+122,36,PassionateChillyCaribou,sabre,fotl,middle,torso,1604067550,PassionateChillyCaribou,seoulsabre2019,sabre,male,Max Hartung,Iulian Teodosiu,0,1,right,https://clips.fencingdatabase.com/seoulsabre2019/PassionateChillyCaribou.mp4
+128,42,ShallowAncientCrownofthornsstarfish,sabre,fotl,middle,head,1604499584,ShallowAncientCrownofthornsstarfish,cairosabre2019,sabre,female,Qian Jiarui,Ma Yingjia,14,15,right,https://clips.fencingdatabase.com/cairosabre2019/ShallowAncientCrownofthornsstarfish.mp4
+132,46,ImmenseLeadingHypsilophodon,sabre,fotr,middle,front_arm,1604887335,ImmenseLeadingHypsilophodon,seoulsabre2019,sabre,male,Mohab Samer,Ali Pakdaman,9,13,left,https://clips.fencingdatabase.com/seoulsabre2019/ImmenseLeadingHypsilophodon.mp4
+135,49,DarlingPlainLiger,sabre,fotr,middle,torso,1605104679,DarlingPlainLiger,moscowsabre2012,sabre,,Joanna Hutchison,Alina Ozolina,4,5,double,https://clips.fencingdatabase.com/moscowsabre2012/DarlingPlainLiger.mp4
+140,54,PlumpDetailedArmyworm,sabre,fotr,fotl_half,head,1605499790,PlumpDetailedArmyworm,montrealsabre2020,sabre,male,Bolade Apithy,Andriy Yagodka,3,1,left,https://clips.fencingdatabase.com/montrealsabre2020/PlumpDetailedArmyworm.mp4
+149,64,SecondKindheartedGraysquirrel,sabre,fotr,middle,front_arm,1605935132,SecondKindheartedGraysquirrel,cancunsabre2017,sabre,male,Eli Dershwitz,Gu Bongil,9,7,right,https://clips.fencingdatabase.com/cancunsabre2017/SecondKindheartedGraysquirrel.mp4
+151,67,MeatyOddballCanvasback,sabre,fotr,fotl_half,torso,1606152312,MeatyOddballCanvasback,seoulsabre2019,sabre,female,Rossella Gregorio,Alina Komashchuk,3,1,left,https://clips.fencingdatabase.com/seoulsabre2019/MeatyOddballCanvasback.mp4
+153,69,PointlessYawningArgentineruddyduck,sabre,fotl,fotr_half,front_arm,1606288707,PointlessYawningArgentineruddyduck,cairosabre2019,sabre,male,Luigi Samele,Kim Kyehwan,8,9,left,https://clips.fencingdatabase.com/cairosabre2019/PointlessYawningArgentineruddyduck.mp4
+158,75,IncredibleThisFallowdeer,sabre,fotl,fotr_half,front_arm,1606762986,IncredibleThisFallowdeer,seoulsabre2019,sabre,female,Anna Limbach,Shao Yaqi,1,0,left,https://clips.fencingdatabase.com/seoulsabre2019/IncredibleThisFallowdeer.mp4
+159,76,HollowPepperyArieltoucan,sabre,fotl,middle,torso,1606782263,HollowPepperyArieltoucan,montrealsabre2020,sabre,male,Galgoczy Tamas,Fares Ferjani,10,10,left,https://clips.fencingdatabase.com/montrealsabre2020/HollowPepperyArieltoucan.mp4
+160,77,AridFrankBernesemountaindog,sabre,fotr,middle,torso,1606782346,AridFrankBernesemountaindog,budapestsabre2019,sabre,male,Huebner Bjoern Fehrer,Oh Sanguk,8,13,right,https://clips.fencingdatabase.com/budapestsabre2019/AridFrankBernesemountaindog.mp4
+164,82,LimpEdibleAngelwingmussel,sabre,fotr,middle,head,1607095780,LimpEdibleAngelwingmussel,cancunsabre2017,sabre,female,Iryna Shchukla,Cecilia Berder,1,2,right,https://clips.fencingdatabase.com/cancunsabre2017/LimpEdibleAngelwingmussel.mp4
+167,85,AnotherReliableAfricanfisheagle,sabre,fotr,fotl_warning_box,torso,1607359329,AnotherReliableAfricanfisheagle,moscowsabre2012,sabre,,Chen Xiaodong,Mariel Zagunis,5,5,right,https://clips.fencingdatabase.com/moscowsabre2012/AnotherReliableAfricanfisheagle.mp4
+170,88,WanFoolhardyGrayfox,sabre,fotr,middle,front_arm,1607703726,WanFoolhardyGrayfox,seoulsabre2019,sabre,male,Anatoliy Kostenko,Gu Bongil,9,7,left,https://clips.fencingdatabase.com/seoulsabre2019/WanFoolhardyGrayfox.mp4
+177,97,VainHandyElephantbeetle,sabre,fotr,middle,torso,1608650498,VainHandyElephantbeetle,seoulsabre2019,sabre,female,Francesca Russo,Irene Vecchi,7,3,right,https://clips.fencingdatabase.com/seoulsabre2019/VainHandyElephantbeetle.mp4
+182,2,CaringFickleHornet,sabre,fotr,fotl_half,torso,1608993957,CaringFickleHornet,montrealsabre2020,sabre,male,Aliya Itzkowitz,Ziad Elsissy,0,2,right,https://clips.fencingdatabase.com/montrealsabre2020/CaringFickleHornet.mp4
+186,6,GeneralHomelyFrog,sabre,fotr,middle,head,1609341553,GeneralHomelyFrog,seoulsabre2019,sabre,female,Dina Galiakbarova,Seo Jiyeon,1,5,right,https://clips.fencingdatabase.com/seoulsabre2019/GeneralHomelyFrog.mp4
+187,7,ShoddySleepyDeviltasmanian,sabre,fotl,middle,torso,1609364002,ShoddySleepyDeviltasmanian,budapestsabre2019,sabre,male,Curtis Miller,,5,7,left,https://clips.fencingdatabase.com/budapestsabre2019/ShoddySleepyDeviltasmanian.mp4
+188,8,HopefulPiercingAnnelid,sabre,,fotl_warning_box,hand,1609364033,HopefulPiercingAnnelid,moscowsabre2012,sabre,,Sofya Velikaya,Chen Xiaodong,6,8,right,https://clips.fencingdatabase.com/moscowsabre2012/HopefulPiercingAnnelid.mp4
+197,18,ShorttermGrizzledLeech,sabre,fotl,middle,head,1609934814,ShorttermGrizzledLeech,moscowsabre2012,sabre,,Bolade Apithy,Siarhei Shachanin,1,1,left,https://clips.fencingdatabase.com/moscowsabre2012/ShorttermGrizzledLeech.mp4
+200,21,ScornfulWeeCleanerwrasse,sabre,fotl,fotl_half,torso,1610135335,ScornfulWeeCleanerwrasse,seoulsabre2019,sabre,female,Seo Jiyeon,Cecilia Berder,9,10,right,https://clips.fencingdatabase.com/seoulsabre2019/ScornfulWeeCleanerwrasse.mp4
+203,24,HatefulJubilantKillifish,sabre,fotl,fotr_warning_box,hand,1610358830,HatefulJubilantKillifish,seoulsabre2019,sabre,male,Sung Junmo,Szilagyi Aron,7,15,right,https://clips.fencingdatabase.com/seoulsabre2019/HatefulJubilantKillifish.mp4
+215,39,SafeAgitatedIberianmidwifetoad,sabre,fotl,fotr_half,front_arm,1611326037,SafeAgitatedIberianmidwifetoad,cairosabre2019,sabre,male,Benno Schneider,Giovanni Repetti,9,13,left,https://clips.fencingdatabase.com/cairosabre2019/SafeAgitatedIberianmidwifetoad.mp4
+239,64,WhirlwindFavoriteCleanerwrasse,sabre,fotr,fotl_half,head,1611845051,WhirlwindFavoriteCleanerwrasse,seoulsabre2019,sabre,male,Maxime Pianfetti,Oh Sanguk,8,12,right,https://clips.fencingdatabase.com/seoulsabre2019/WhirlwindFavoriteCleanerwrasse.mp4
+246,73,SmugEsteemedHalcyon,sabre,fotr,middle,hand,1612280604,SmugEsteemedHalcyon,moscowsabre2012,sabre,,Matylda Ostojska,Olga Kharlan,13,12,left,https://clips.fencingdatabase.com/moscowsabre2012/SmugEsteemedHalcyon.mp4
+248,75,WhimsicalIlliterateAmericanblackvulture,sabre,fotl,middle,head,1612450826,WhimsicalIlliterateAmericanblackvulture,cairosabre2019,sabre,female,Svetlana Sheveleva,Dagmara Wozniak,3,9,right,https://clips.fencingdatabase.com/cairosabre2019/WhimsicalIlliterateAmericanblackvulture.mp4
+249,76,FamousAffectionateAgama,sabre,fotl,fotr_half,torso,1612537694,FamousAffectionateAgama,moscowsabre2012,sabre,,Aida Alasgarova,Leonore Perrus,2,2,left,https://clips.fencingdatabase.com/moscowsabre2012/FamousAffectionateAgama.mp4
+251,79,FalseQuaintBuffalo,sabre,fotr,fotl_half,torso,1612799006,FalseQuaintBuffalo,montrealsabre2020,sabre,male,Mohamed Amer,Ziad Elsissy,6,3,right,https://clips.fencingdatabase.com/montrealsabre2020/FalseQuaintBuffalo.mp4
+260,89,AbleIllBluemorphobutterfly,sabre,fotr,middle,head,1613553092,AbleIllBluemorphobutterfly,cairosabre2019,sabre,male,Aldo Montano,Oh Sanguk,3,5,left,https://clips.fencingdatabase.com/cairosabre2019/AbleIllBluemorphobutterfly.mp4
+264,94,WellwornKindAvians,sabre,fotl,fotr_half,torso,1613663326,WellwornKindAvians,seoulsabre2019,sabre,male,Sung Junmo,Szilagyi Aron,6,11,left,https://clips.fencingdatabase.com/seoulsabre2019/WellwornKindAvians.mp4
+265,95,UnlinedPleasingKoalabear,sabre,fotl,middle,hand,1613663360,UnlinedPleasingKoalabear,moscowsabre2012,sabre,,Andriy Yagodka,Aldo Montano,2,4,double,https://clips.fencingdatabase.com/moscowsabre2012/UnlinedPleasingKoalabear.mp4
+267,0,UltimateGlitteringHeifer,sabre,fotr,middle,front_arm,1613663593,UltimateGlitteringHeifer,cairosabre2019,sabre,male,Gu Bongil,So Jeong Hoon,10,8,right,https://clips.fencingdatabase.com/cairosabre2019/UltimateGlitteringHeifer.mp4
+268,3,CheapObeseAlbertosaurus,sabre,fotl,middle,front_arm,1613760905,CheapObeseAlbertosaurus,seoulsabre2019,sabre,male,Gu Bongil,Won Junho,15,9,left,https://clips.fencingdatabase.com/seoulsabre2019/CheapObeseAlbertosaurus.mp4
+269,4,HorribleUnsteadyCrossbill,sabre,fotl,middle,front_arm,1613760960,HorribleUnsteadyCrossbill,cairosabre2019,sabre,female,Monica Aksamit,Irene Vecchi,2,0,left,https://clips.fencingdatabase.com/cairosabre2019/HorribleUnsteadyCrossbill.mp4
+271,6,OrneryCautiousCuttlefish,sabre,fotl,fotr_half,torso,1613761022,OrneryCautiousCuttlefish,moscowsabre2012,sabre,,Luigi Samele,Aliaksandr Buikevich,3,1,left,https://clips.fencingdatabase.com/moscowsabre2012/OrneryCautiousCuttlefish.mp4
+281,16,JealousDimpledJellyfish,sabre,fotr,fotl_half,torso,1613818915,JealousDimpledJellyfish,budapestsabre2019,sabre,male,Maxence Lambert,Ilya Motorin,5,6,right,https://clips.fencingdatabase.com/budapestsabre2019/JealousDimpledJellyfish.mp4
+291,26,HalfLoathsomeBillygoat,sabre,fotl,middle,front_arm,1614262414,HalfLoathsomeBillygoat,budapestsabre2019,sabre,male,Luigi Samele,Fabien Ballorca,12,2,left,https://clips.fencingdatabase.com/budapestsabre2019/HalfLoathsomeBillygoat.mp4
+299,34,TameAnyConey,sabre,fotr,middle,front_arm,1614413542,TameAnyConey,cairosabre2019,sabre,male,Veniamin Reshetnikov,Iulian Teodosiu,3,5,left,https://clips.fencingdatabase.com/cairosabre2019/TameAnyConey.mp4
+303,40,HarmoniousMeekLeafbird,sabre,fotl,fotr_warning_box,back_arm,1614413730,HarmoniousMeekLeafbird,tunissabre2017,sabre,female,Olga Kharlan,Dina Galiakbarova,13,6,left,https://clips.fencingdatabase.com/tunissabre2017/HarmoniousMeekLeafbird.mp4
+308,46,ClassicFarBarebirdbat,sabre,fotr,middle,front_arm,1614519513,ClassicFarBarebirdbat,cairosabre2019,sabre,male,Enver Yildirim,Sandro Bazadze,5,12,right,https://clips.fencingdatabase.com/cairosabre2019/ClassicFarBarebirdbat.mp4
+309,47,OldfashionedFluidAmazontreeboa,sabre,fotr,fotr_half,torso,1614519578,OldfashionedFluidAmazontreeboa,budapestsabre2019,sabre,male,Mojtaba Abedini,Benedikt Wagner,12,7,right,https://clips.fencingdatabase.com/budapestsabre2019/OldfashionedFluidAmazontreeboa.mp4
+325,63,UncommonCompleteBassethound,sabre,fotl,middle,front_arm,1615045105,UncommonCompleteBassethound,seoulsabre2019,sabre,female,Yoana Ilieva,Marton Anna,0,1,right,https://clips.fencingdatabase.com/seoulsabre2019/UncommonCompleteBassethound.mp4
+327,65,HonestZigzagBetafish,sabre,fotl,middle,front_arm,1615124605,HonestZigzagBetafish,tunissabre2017,sabre,female,Monica Aksamit,Laura Reguigne,11,14,right,https://clips.fencingdatabase.com/tunissabre2017/HonestZigzagBetafish.mp4
+330,69,EcstaticAliveBullmastiff,sabre,fotl,middle,front_arm,1615124715,EcstaticAliveBullmastiff,montrealsabre2020,sabre,male,Anatoliy Kostenko,Jung Jaeseung,3,6,left,https://clips.fencingdatabase.com/montrealsabre2020/EcstaticAliveBullmastiff.mp4
+339,84,LargeMagnificentGuineafowl,sabre,fotl,fotr_half,head,1615520255,LargeMagnificentGuineafowl,cairosabre2019,sabre,female,Fu Ying,Leanne Singletoncomfort,10,8,right,https://clips.fencingdatabase.com/cairosabre2019/LargeMagnificentGuineafowl.mp4
+343,88,TenderElatedFunnelweaverspider,sabre,fotr,fotl_half,torso,1615520551,TenderElatedFunnelweaverspider,cancunsabre2017,sabre,female,Dagmara Wozniak,Yana Egorian,1,5,right,https://clips.fencingdatabase.com/cancunsabre2017/TenderElatedFunnelweaverspider.mp4
+359,8,EnchantingCommonArchaeopteryx,sabre,fotr,fotl_half,front_arm,1617062303,EnchantingCommonArchaeopteryx,montrealsabre2020,sabre,male,Decsi Tamas,Szilagyi Aron,5,8,right,https://clips.fencingdatabase.com/montrealsabre2020/EnchantingCommonArchaeopteryx.mp4
+362,11,ShamefulScientificDarklingbeetle,sabre,neither,middle,torso,1617540822,ShamefulScientificDarklingbeetle,budapestsabre2019,sabre,male,Mohammad Rahbari,Maxime Pianfetti,3,2,right,https://clips.fencingdatabase.com/budapestsabre2019/ShamefulScientificDarklingbeetle.mp4
+364,14,FeminineOldfashionedCornsnake,sabre,fotl,fotl_warning_box,hand,1617857475,FeminineOldfashionedCornsnake,montrealsabre2020,sabre,male,Decsi Tamas,Giovanni Repetti,14,9,left,https://clips.fencingdatabase.com/montrealsabre2020/FeminineOldfashionedCornsnake.mp4
+372,24,ReadyGoodBoutu,sabre,fotr,middle,torso,1619449521,ReadyGoodBoutu,budapestsabre2019,sabre,male,Riccardo Nuccio,Alberto Pellegrini,10,9,right,https://clips.fencingdatabase.com/budapestsabre2019/ReadyGoodBoutu.mp4
+376,29,HandyHardtofindBlacklab,sabre,fotl,fotr_half,hand,1619863394,HandyHardtofindBlacklab,moscowsabre2012,sabre,,Alessandra Lucchino,Olga Kharlan,6,10,double,https://clips.fencingdatabase.com/moscowsabre2012/HandyHardtofindBlacklab.mp4
+381,36,TidyGreatInexpectatumpleco,sabre,fotr,fotl_half,front_arm,1620144262,TidyGreatInexpectatumpleco,cancunsabre2017,sabre,male,Bolade Apithy,Szatmari Andras,2,3,right,https://clips.fencingdatabase.com/cancunsabre2017/TidyGreatInexpectatumpleco.mp4
+384,42,SmartKindlyCrow,sabre,fotr,fotl_half,front_arm,1620278550,SmartKindlyCrow,tunissabre2017,sabre,female,Chiara Mormile,Martina Petraglia,1,3,right,https://clips.fencingdatabase.com/tunissabre2017/SmartKindlyCrow.mp4
+389,50,EmbarrassedGleefulAlaskanmalamute,sabre,fotl,fotr_half,head,1620757402,EmbarrassedGleefulAlaskanmalamute,seoulsabre2019,sabre,male,Ho Tin Low,Andriy Yagodka,0,1,right,https://clips.fencingdatabase.com/seoulsabre2019/EmbarrassedGleefulAlaskanmalamute.mp4
+393,58,ForkedFearlessHummingbird,sabre,fotr,fotl_warning_box,torso,1621026252,ForkedFearlessHummingbird,seoulsabre2019,sabre,male,Dmitriy Danilenko,Andrew Mackiewicz,6,5,right,https://clips.fencingdatabase.com/seoulsabre2019/ForkedFearlessHummingbird.mp4
+409,90,AdorableMellowBluetickcoonhound,sabre,fotr,middle,head,1621542147,AdorableMellowBluetickcoonhound,seoulsabre2019,sabre,female,Fu Ying,Saoussen Boudiaf,3,3,right,https://clips.fencingdatabase.com/seoulsabre2019/AdorableMellowBluetickcoonhound.mp4
+964,48,BlankPowerlessComet,sabre,fotl,middle,front_arm,1623877558,BlankPowerlessComet,budapestsabre2021,sabre,,Yousef Alshamlan,Mohamed Amer,11,8,right,https://clips.fencingdatabase.com/budapestsabre2021/BlankPowerlessComet.mp4
+1048,79,JubilantSolidArgusfish,sabre,fotr,fotl_warning_box,front_arm,1624347433,JubilantSolidArgusfish,cairosabre2019,sabre,male,Benno Schneider,Giovanni Repetti,9,15,right,https://clips.fencingdatabase.com/cairosabre2019/JubilantSolidArgusfish.mp4
+1370,98,AjarPersonalBluejay,sabre,,fotl_half,hand,1629819743,AjarPersonalBluejay,seoulsabre2019,sabre,male,Mohab Samer,Ali Pakdaman,5,9,left,https://clips.fencingdatabase.com/seoulsabre2019/AjarPersonalBluejay.mp4
+1466,59,PossibleWaryCat,sabre,fotr,fotl_warning_box,front_arm,1631814871,PossibleWaryCat,montrealsabre2020,sabre,male,Lu Yang,Szilagyi Aron,0,1,right,https://clips.fencingdatabase.com/montrealsabre2020/PossibleWaryCat.mp4
+1470,63,PiercingDeepHarvestmen,sabre,fotl,fotr_half,front_arm,1631815016,PiercingDeepHarvestmen,cancunsabre2017,sabre,male,Dario Cavaliere,Decsi Tamas,14,12,left,https://clips.fencingdatabase.com/cancunsabre2017/PiercingDeepHarvestmen.mp4
+1474,67,ColossalPoliteIrishredandwhitesetter,sabre,fotr,middle,torso,1631815160,ColossalPoliteIrishredandwhitesetter,budapestsabre2021,sabre,,Valeriya Bolshakova,Olga Nikitina,3,9,right,https://clips.fencingdatabase.com/budapestsabre2021/ColossalPoliteIrishredandwhitesetter.mp4
+1475,68,VainDiscreteIcelandgull,sabre,fotr,middle,front_arm,1631815182,VainDiscreteIcelandgull,cancunsabre2017,sabre,female,Anneelizabeth Stone,Marton Anna,1,2,right,https://clips.fencingdatabase.com/cancunsabre2017/VainDiscreteIcelandgull.mp4
+1509,30,GrizzledAlarmedAnchovy,sabre,,fotl_warning_box,hand,1632540401,GrizzledAlarmedAnchovy,tunissabre2017,sabre,female,Olga Kharlan,Emura Misaki,6,5,left,https://clips.fencingdatabase.com/tunissabre2017/GrizzledAlarmedAnchovy.mp4
+1511,33,ApprehensiveKindlyApatosaur,sabre,,fotl_warning_box,hand,1632674672,ApprehensiveKindlyApatosaur,moscowsabre2012,sabre,,Luigi Samele,Nikolay Kovalev,2,1,right,https://clips.fencingdatabase.com/moscowsabre2012/ApprehensiveKindlyApatosaur.mp4
+1512,34,AgreeableFixedBarbet,sabre,neither,fotr_warning_box,hand,1632674709,AgreeableFixedBarbet,cairosabre2019,sabre,female,Ma Yingjia,Iryna Shchukla,8,9,left,https://clips.fencingdatabase.com/cairosabre2019/AgreeableFixedBarbet.mp4
+1513,35,GroundedSadAssassinbug,sabre,fotl,middle,hand,1632674733,GroundedSadAssassinbug,budapestsabre2019,sabre,male,Szatmari Andras,Kim Kyehwan,14,14,right,https://clips.fencingdatabase.com/budapestsabre2019/GroundedSadAssassinbug.mp4
+1564,11,SeriousInexperiencedAmethystsunbird,sabre,neither,middle,torso,1633621830,SeriousInexperiencedAmethystsunbird,tokyoolympics2020,sabre,male,Eli Dershwitz,Streets Kaito,1,0,left,https://clips.fencingdatabase.com/tokyoolympics2020/SeriousInexperiencedAmethystsunbird.mp4
+1571,20,BeneficialDelightfulGodwit,sabre,,middle,front_arm,1633702901,BeneficialDelightfulGodwit,tokyoolympics2020,sabre,male,Enrico Berre,Iulian Teodosiu,5,4,left,https://clips.fencingdatabase.com/tokyoolympics2020/BeneficialDelightfulGodwit.mp4
+1582,39,IcyCookedAmericanredsquirrel,sabre,fotr,fotl_half,front_arm,1634069439,IcyCookedAmericanredsquirrel,budapestsabre2021,sabre,,Mohammad Rahbari,Richard Huebers,4,2,left,https://clips.fencingdatabase.com/budapestsabre2021/IcyCookedAmericanredsquirrel.mp4
+1626,12,NeatSilverCaracal,sabre,fotr,fotl_warning_box,torso,1635283600,NeatSilverCaracal,cancunsabre2017,sabre,female,Angelika Wator,Martina Petraglia,2,0,left,https://clips.fencingdatabase.com/cancunsabre2017/NeatSilverCaracal.mp4
+1639,32,FamousMeatyAcornbarnacle,sabre,fotl,fotl_warning_box,hand,1635520186,FamousMeatyAcornbarnacle,tokyoolympics2020,sabre,male,Andrew Mackiewicz,Shimamura Tomohiro,14,13,right,https://clips.fencingdatabase.com/tokyoolympics2020/FamousMeatyAcornbarnacle.mp4
+1707,29,FaroffBronzeKangaroo,sabre,fotr,fotl_warning_box,hand,1636982012,FaroffBronzeKangaroo,tunissabre2017,sabre,female,Dagmara Wozniak,Marton Anna,6,4,left,https://clips.fencingdatabase.com/tunissabre2017/FaroffBronzeKangaroo.mp4
+1725,53,DependentGenuineDodo,sabre,fotr,fotl_warning_box,head,1637340097,DependentGenuineDodo,budapestsabre2021,sabre,,Alin Badea,Nada Hafez,6,6,right,https://clips.fencingdatabase.com/budapestsabre2021/DependentGenuineDodo.mp4
+1765,10,IdleUnimportantFinwhale,sabre,fotl,fotr_warning_box,front_arm,1637852652,IdleUnimportantFinwhale,budapestsabre2021,sabre,,Cecilia Berder,Katona Renata,15,12,left,https://clips.fencingdatabase.com/budapestsabre2021/IdleUnimportantFinwhale.mp4
+1790,42,UnconsciousScarceGreathornedowl,sabre,fotl,fotr_warning_box,torso,1638422394,UnconsciousScarceGreathornedowl,tokyoolympics2020,sabre,female,Choi Sooyeon,Cecilia Berder,4,3,left,https://clips.fencingdatabase.com/tokyoolympics2020/UnconsciousScarceGreathornedowl.mp4
+1911,26,HardtofindNaturalIrrawaddydolphin,sabre,fotl,middle,head,1641953876,HardtofindNaturalIrrawaddydolphin,budapestsabre2019,sabre,male,Enver Yildirim,Enrico Berre,1,0,left,https://clips.fencingdatabase.com/budapestsabre2019/HardtofindNaturalIrrawaddydolphin.mp4
+1912,28,BitesizedMintyKitfox,sabre,fotr,middle,front_arm,1642000206,BitesizedMintyKitfox,cancunsabre2017,sabre,male,Anatoliy Kostenko,Veniamin Reshetnikov,0,2,right,https://clips.fencingdatabase.com/cancunsabre2017/BitesizedMintyKitfox.mp4
+2056,62,MediumDangerousChameleon,sabre,fotl,fotr_half,head,1643693901,MediumDangerousChameleon,cancunsabre2017,sabre,male,Arthur Zatko,Enrico Berre,10,13,left,https://clips.fencingdatabase.com/cancunsabre2017/MediumDangerousChameleon.mp4
+2125,74,BruisedIllegalEeve,sabre,fotl,middle,torso,1644870236,BruisedIllegalEeve,moscowwch2015,sabre,,Fernando Casares,Aldo Montano,2,2,left,https://clips.fencingdatabase.com/moscowwch2015/BruisedIllegalEeve.mp4
+2219,34,MeagerThickAlabamamapturtle,sabre,fotl,middle,head,1646180633,MeagerThickAlabamamapturtle,tokyoolympics2020,sabre,male,Benedikt Wagner,Kamil Ibragimov,7,8,left,https://clips.fencingdatabase.com/tokyoolympics2020/MeagerThickAlabamamapturtle.mp4
+2484,46,OldfashionedWeeArchaeocete,sabre,fotr,middle,torso,1649009445,OldfashionedWeeArchaeocete,moscowwch2015,sabre,,Daryl Homer,Gu Bongil,14,11,right,https://clips.fencingdatabase.com/moscowwch2015/OldfashionedWeeArchaeocete.mp4
+2491,54,AcceptableFoolishDarklingbeetle,sabre,neither,middle,torso,1649010095,AcceptableFoolishDarklingbeetle,cairosabre2019,sabre,female,Yoon Jisu,Fukushima Shihomi,10,13,right,https://clips.fencingdatabase.com/cairosabre2019/AcceptableFoolishDarklingbeetle.mp4
+2536,63,DarkEmbellishedInganue,sabre,fotl,fotr_warning_box,head,1649693668,DarkEmbellishedInganue,cairosabre2019,sabre,female,Cecilia Berder,Michela Battiston,15,12,left,https://clips.fencingdatabase.com/cairosabre2019/DarkEmbellishedInganue.mp4
+3181,59,DevotedFaroffKronosaurus,sabre,,fotl_warning_box,hand,1654672281,DevotedFaroffKronosaurus,tunissabre2017,sabre,female,Marton Anna,Olga Nikitina,12,6,left,https://clips.fencingdatabase.com/tunissabre2017/DevotedFaroffKronosaurus.mp4
+3225,24,QuerulousShinyAruanas,sabre,fotl,fotr_warning_box,head,1655116872,QuerulousShinyAruanas,tbilisisabre2022,sabre,,William Deary,Riccardo Nuccio,3,0,left,https://clips.fencingdatabase.com/tbilisisabre2022/QuerulousShinyAruanas.mp4
+3332,84,ImperturbablePerkyCurassow,sabre,fotl,middle,head,1656375067,ImperturbablePerkyCurassow,cancunsabre2017,sabre,female,Lee Rajin,Cecilia Berder,8,7,left,https://clips.fencingdatabase.com/cancunsabre2017/ImperturbablePerkyCurassow.mp4
+3393,84,GlamorousLinearGemsbuck,sabre,fotr,middle,torso,1657150229,GlamorousLinearGemsbuck,cancunsabre2017,sabre,female,Dagmara Wozniak,Pusztai Liza,9,11,right,https://clips.fencingdatabase.com/cancunsabre2017/GlamorousLinearGemsbuck.mp4
+3394,85,WildLastingJunebug,sabre,fotr,fotl_half,torso,1657150270,WildLastingJunebug,budapestsabre2021,sabre,,Mariel Zagunis,Svetlana Sheveleva,9,4,left,https://clips.fencingdatabase.com/budapestsabre2021/WildLastingJunebug.mp4
+3616,0,ArcticOpulentHind,sabre,fotr,fotl_warning_box,hand,1660644859,ArcticOpulentHind,madridsabre2022,sabre,male,Muhammed Anasiz,Song Seungheon,1,2,right,https://clips.fencingdatabase.com/madridsabre2022/ArcticOpulentHind.mp4
+3619,5,OffbeatInfantileGlassfrog,sabre,fotr,fotr_warning_box,hand,1660645314,OffbeatInfantileGlassfrog,seoulsabre2019,sabre,female,Monica Aksamit,Anna Limbach,7,6,right,https://clips.fencingdatabase.com/seoulsabre2019/OffbeatInfantileGlassfrog.mp4
+3621,7,EuphoricGreedyCockerspaniel,sabre,fotl,fotl_half,head,1660645386,EuphoricGreedyCockerspaniel,madridsabre2022,sabre,male,Liang Jianhao,Jared Smith,5,2,left,https://clips.fencingdatabase.com/madridsabre2022/EuphoricGreedyCockerspaniel.mp4
+3732,86,YawningAshamedBrant,sabre,neither,middle,torso,1662301008,YawningAshamedBrant,cancunsabre2017,sabre,female,Kim Jiyeon,Olga Kharlan,13,14,right,https://clips.fencingdatabase.com/cancunsabre2017/YawningAshamedBrant.mp4
+3793,83,InsidiousLeafyFrogmouth,sabre,fotr,middle,head,1663079543,InsidiousLeafyFrogmouth,tbilisisabre2022,sabre,,Giovanni Repetti,Kirill Tyulyukov,10,11,right,https://clips.fencingdatabase.com/tbilisisabre2022/InsidiousLeafyFrogmouth.mp4
+3834,44,FeistyTestyDungbeetle,sabre,fotr,fotl_half,torso,1663414839,FeistyTestyDungbeetle,madridsabre2022,sabre,male,Szilagyi Aron,Szatmari Andras,9,7,right,https://clips.fencingdatabase.com/madridsabre2022/FeistyTestyDungbeetle.mp4
+3837,47,CriminalDefinitiveCowbird,sabre,fotl,fotr_half,front_arm,1663414975,CriminalDefinitiveCowbird,paduasabre2022,sabre,,Jeon Eunhye,Pusztai Liza,5,2,right,https://clips.fencingdatabase.com/paduasabre2022/CriminalDefinitiveCowbird.mp4
+3838,48,DirtyPolishedDairycow,sabre,fotr,fotr_half,torso,1663415039,DirtyPolishedDairycow,seoulsabre2019,sabre,male,Kim Kyehwan,Konstantin Lokhanov,2,4,left,https://clips.fencingdatabase.com/seoulsabre2019/DirtyPolishedDairycow.mp4
+3840,51,UnfortunateExcitableInganue,sabre,fotr,fotl_warning_box,front_arm,1663415128,UnfortunateExcitableInganue,budapestsabre2019,sabre,male,Gemesi Bence,Eli Dershwitz,5,14,right,https://clips.fencingdatabase.com/budapestsabre2019/UnfortunateExcitableInganue.mp4
+3842,53,NeighboringImpossibleArmedcrab,sabre,fotr,middle,torso,1663415204,NeighboringImpossibleArmedcrab,tunisiasabre2022,sabre,female,Anneelizabeth Stone,Sofia Ciaraglia,7,0,left,https://clips.fencingdatabase.com/tunisiasabre2022/NeighboringImpossibleArmedcrab.mp4
+3844,55,InsignificantAdvancedElver,sabre,fotl,middle,head,1663415274,InsignificantAdvancedElver,budapestsabre2021,sabre,,Szilagyi Aron,Iulian Teodosiu,5,6,right,https://clips.fencingdatabase.com/budapestsabre2021/InsignificantAdvancedElver.mp4
+3845,56,DazzlingAcclaimedDuckbillplatypus,sabre,fotl,middle,front_arm,1663415335,DazzlingAcclaimedDuckbillplatypus,tokyoolympics2020,sabre,female,Mariel Zagunis,Sofya Velikaya,4,4,right,https://clips.fencingdatabase.com/tokyoolympics2020/DazzlingAcclaimedDuckbillplatypus.mp4
+3846,57,ZanyDentalKitty,sabre,fotl,fotr_half,head,1663415370,ZanyDentalKitty,cancunsabre2017,sabre,female,Choi Sooyeon,Kim Haeun,11,4,left,https://clips.fencingdatabase.com/cancunsabre2017/ZanyDentalKitty.mp4
+3964,52,CraftyDishonestAsp,sabre,fotr,fotr_half,hand,1665439384,CraftyDishonestAsp,tokyoolympics2020,sabre,female,Manon Apithy - Brunet,Emura Misaki,4,6,left,https://clips.fencingdatabase.com/tokyoolympics2020/CraftyDishonestAsp.mp4
+4097,44,WeeklyMaleBluejay,sabre,,fotl_half,hand,1667997541,WeeklyMaleBluejay,paduasabre2022,sabre,,Luis Bonah,Yuriy Tsap,7,5,right,https://clips.fencingdatabase.com/paduasabre2022/WeeklyMaleBluejay.mp4
+4128,97,LazyQueasyArcticduck,sabre,fotl,middle,head,1668236069,LazyQueasyArcticduck,cairosabre2019,sabre,male,Domenik Koch,Geoffrey Loss,8,8,left,https://clips.fencingdatabase.com/cairosabre2019/LazyQueasyArcticduck.mp4
+4243,90,AmazingDesertedAtlanticblackgoby,sabre,fotr,middle,torso,1669674806,AmazingDesertedAtlanticblackgoby,tokyoolympics2020,sabre,female,Marton Anna,Choi Sooyeon,5,4,left,https://clips.fencingdatabase.com/tokyoolympics2020/AmazingDesertedAtlanticblackgoby.mp4
+4295,62,OpenSharpImago,sabre,fotl,middle,torso,1670166339,OpenSharpImago,budapestsabre2021,sabre,,Nima Zahedi,Inaki Bravo,5,9,left,https://clips.fencingdatabase.com/budapestsabre2021/OpenSharpImago.mp4
+4298,69,FlimsyBoilingAracari,sabre,fotl,middle,front_arm,1670170256,FlimsyBoilingAracari,worldchamps2022,sabre,female,Ana Mihailova,Theodora Gkountoura,2,9,right,https://clips.fencingdatabase.com/worldchamps2022/FlimsyBoilingAracari.mp4
+4300,71,OpulentVengefulEidolonhelvum,sabre,fotr,middle,hand,1670170333,OpulentVengefulEidolonhelvum,montrealsabre2020,sabre,male,Lu Yang,Szilagyi Aron,2,1,left,https://clips.fencingdatabase.com/montrealsabre2020/OpulentVengefulEidolonhelvum.mp4
+4301,73,FlashySkinnyHuman,sabre,fotr,fotl_half,torso,1670172177,FlashySkinnyHuman,moscowwch2015,sabre,,Mojtaba Abedini,Gu Bongil,7,9,right,https://clips.fencingdatabase.com/moscowwch2015/FlashySkinnyHuman.mp4
+4311,86,BarrenDifferentBettong,sabre,fotl,fotr_half,torso,1670174522,BarrenDifferentBettong,madridsabre2022,sabre,male,Yan Yinghui,Szatmari Andras,3,7,right,https://clips.fencingdatabase.com/madridsabre2022/BarrenDifferentBettong.mp4
+4312,87,AdorableZanyAntbear,sabre,fotr,fotl_warning_box,torso,1670174559,AdorableZanyAntbear,worldchamps2022,sabre,female,Leidis Maris Veranes   Mustelier,Sabina Martis,4,11,right,https://clips.fencingdatabase.com/worldchamps2022/AdorableZanyAntbear.mp4
+4315,92,FrenchImpeccableIggypops,sabre,neither,middle,torso,1670174782,FrenchImpeccableIggypops,cancunsabre2017,sabre,female,Veronica Czyzewski,Olga Nikitina,8,9,right,https://clips.fencingdatabase.com/cancunsabre2017/FrenchImpeccableIggypops.mp4
+4317,94,UnhealthyWearyIchthyostega,sabre,fotr,middle,torso,1670174882,UnhealthyWearyIchthyostega,montrealsabre2020,sabre,male,Iliasz Nicolas,Charles Colleau,4,5,right,https://clips.fencingdatabase.com/montrealsabre2020/UnhealthyWearyIchthyostega.mp4
+4325,2,AlertNiceFrigatebird,sabre,fotr,middle,torso,1670185599,AlertNiceFrigatebird,seoulsabre2019,sabre,male,Mojtaba Abedini,,3,5,left,https://clips.fencingdatabase.com/seoulsabre2019/AlertNiceFrigatebird.mp4
+4326,3,PlasticAlarmedAfricanbushviper,sabre,fotr,fotl_warning_box,front_arm,1670188881,PlasticAlarmedAfricanbushviper,seoulsabre2019,sabre,female,Kim Jiyeon,Michela Battiston,7,4,left,https://clips.fencingdatabase.com/seoulsabre2019/PlasticAlarmedAfricanbushviper.mp4
+4327,4,ViciousRepulsiveCowrie,sabre,fotr,middle,front_arm,1670188913,ViciousRepulsiveCowrie,cairosabre2019,sabre,male,Alin Badea,Jung Jaeseung,5,4,left,https://clips.fencingdatabase.com/cairosabre2019/ViciousRepulsiveCowrie.mp4
+4328,5,ComplexViciousFantail,sabre,fotl,fotl_warning_box,torso,1670189026,ComplexViciousFantail,seoulsabre2019,sabre,female,Mariel Zagunis,Aoki Chika,8,6,left,https://clips.fencingdatabase.com/seoulsabre2019/ComplexViciousFantail.mp4
+4335,13,LawfulSeparateDesertpupfish,sabre,fotr,middle,torso,1670195447,LawfulSeparateDesertpupfish,eurochamps2022,sabre,female,Martina Criscio,Larissa Eifler,7,13,right,https://clips.fencingdatabase.com/eurochamps2022/LawfulSeparateDesertpupfish.mp4
+4337,15,SilentDiligentCopperhead,sabre,fotl,fotr_half,front_arm,1670195514,SilentDiligentCopperhead,cairosabre2019,sabre,female,Monica Aksamit,Irene Vecchi,3,0,left,https://clips.fencingdatabase.com/cairosabre2019/SilentDiligentCopperhead.mp4
+4338,19,JovialShowyKoi,sabre,fotr,fotl_half,front_arm,1670249921,JovialShowyKoi,worldchamps2022,sabre,male,Maxime Pianfetti,Kim Junghwan,8,8,right,https://clips.fencingdatabase.com/worldchamps2022/JovialShowyKoi.mp4
+4339,22,TediousDimwittedGermanshepherd,sabre,fotr,middle,head,1670255393,TediousDimwittedGermanshepherd,montrealsabre2020,sabre,male,Lu Yang,Szilagyi Aron,3,5,right,https://clips.fencingdatabase.com/montrealsabre2020/TediousDimwittedGermanshepherd.mp4
+4341,25,HarmoniousHappyIcelandichorse,sabre,fotr,middle,front_arm,1670282343,HarmoniousHappyIcelandichorse,tokyoolympics2020,sabre,male,Sandro Bazadze,Oh Sanguk,4,5,right,https://clips.fencingdatabase.com/tokyoolympics2020/HarmoniousHappyIcelandichorse.mp4
+4348,36,UnacceptableFoolhardyCollardlizard,sabre,fotl,middle,front_arm,1670441553,UnacceptableFoolhardyCollardlizard,algierssabre2022,sabre,female,Anne Poupinet,Rebecca Gargano,5,10,left,https://clips.fencingdatabase.com/algierssabre2022/UnacceptableFoolhardyCollardlizard.mp4
+4355,47,FarBlackandwhiteCanvasback,sabre,fotr,middle,torso,1670451288,FarBlackandwhiteCanvasback,paduasabre2022,sabre,,Chloe Foxgitomer,Carlotta Fusetti,6,4,right,https://clips.fencingdatabase.com/paduasabre2022/FarBlackandwhiteCanvasback.mp4
+4364,56,BelovedSmallBluejay,sabre,neither,middle,torso,1670451753,BelovedSmallBluejay,budapestsabre2021,sabre,,Eli Dershwitz,Mohammad Rahbari,6,7,right,https://clips.fencingdatabase.com/budapestsabre2021/BelovedSmallBluejay.mp4
+4376,74,PeskyThankfulGerenuk,sabre,fotl,fotr_half,head,1670618814,PeskyThankfulGerenuk,eurochamps2022,sabre,male,Frederic Kindler,Michele Gallo,8,5,left,https://clips.fencingdatabase.com/eurochamps2022/PeskyThankfulGerenuk.mp4
+4380,79,PlayfulPaleFoal,sabre,fotl,fotr_half,back_arm,1670622339,PlayfulPaleFoal,madridsabre2022,sabre,male,Raoul Bonah,Mayank Sharma,3,1,left,https://clips.fencingdatabase.com/madridsabre2022/PlayfulPaleFoal.mp4
+4383,82,TeemingGiganticHarrierhawk,sabre,fotl,fotr_half,head,1670622987,TeemingGiganticHarrierhawk,madridsabre2022,sabre,male,Gemesi Csanad,Oh Sanguk,1,4,left,https://clips.fencingdatabase.com/madridsabre2022/TeemingGiganticHarrierhawk.mp4
+4413,20,ShabbyDearestGermanwirehairedpointer,sabre,fotr,middle,front_arm,1670804356,ShabbyDearestGermanwirehairedpointer,tokyoolympics2020,sabre,female,Sofia Pozdniakova,Yang Hengyu,0,1,right,https://clips.fencingdatabase.com/tokyoolympics2020/ShabbyDearestGermanwirehairedpointer.mp4
+4414,21,GregariousVacantDiscus,sabre,fotr,middle,head,1670804432,GregariousVacantDiscus,moscowwch2015,sabre,,Szilagyi Aron,Cecilia Berder,9,8,left,https://clips.fencingdatabase.com/moscowwch2015/GregariousVacantDiscus.mp4
+4418,25,BrilliantBrokenBassethound,sabre,fotl,middle,front_arm,1670840556,BrilliantBrokenBassethound,tokyoolympics2020,sabre,female,Irene Vecchi,Charlotte Lembach,7,6,right,https://clips.fencingdatabase.com/tokyoolympics2020/BrilliantBrokenBassethound.mp4
+4489,21,CooperativeBothHornedtoad,sabre,fotr,fotl_warning_box,front_arm,1671486589,CooperativeBothHornedtoad,moscowwch2015,sabre,,Vassiliki Vougiouka,Marton Anna,3,5,left,https://clips.fencingdatabase.com/moscowwch2015/CooperativeBothHornedtoad.mp4
+4493,27,ScrawnyGreedyCirriped,sabre,fotl,middle,hand,1673209793,ScrawnyGreedyCirriped,cairosabre2019,sabre,male,Mikheil Mardaleishvili,Oh Sanguk,0,4,right,https://clips.fencingdatabase.com/cairosabre2019/ScrawnyGreedyCirriped.mp4
+4495,30,InfatuatedDeficientGenet,sabre,fotl,middle,front_arm,1673209880,InfatuatedDeficientGenet,orleanssabre2021,sabre,,Iulian Teodosiu,Alexander Trushakov,10,13,right,https://clips.fencingdatabase.com/orleanssabre2021/InfatuatedDeficientGenet.mp4
+4502,41,KaleidoscopicTepidBlesbok,sabre,fotr,fotr_half,torso,1673456527,KaleidoscopicTepidBlesbok,orleanssabre2021,sabre,,Larissa Eifler,Rebecca Gargano,2,2,left,https://clips.fencingdatabase.com/orleanssabre2021/KaleidoscopicTepidBlesbok.mp4
+4504,43,VibrantWeepyGypsymoth,sabre,fotr,fotr_half,head,1673456631,VibrantWeepyGypsymoth,tunisiasabre2022,sabre,female,Chiara Mormile,Caroline Queroli,3,7,right,https://clips.fencingdatabase.com/tunisiasabre2022/VibrantWeepyGypsymoth.mp4
+4506,45,PotableEnchantedBarbet,sabre,fotl,middle,head,1673456708,PotableEnchantedBarbet,orleanssabre2022,sabre,,Tom Seitz,Mohammad Rahbari,6,4,right,https://clips.fencingdatabase.com/orleanssabre2022/PotableEnchantedBarbet.mp4
+4509,48,FaroffJovialHairstreak,sabre,fotr,fotl_half,front_arm,1673456828,FaroffJovialHairstreak,paduasabre2022,sabre,,Tatiana Nazlymov,Sevil Bunyatova,1,2,right,https://clips.fencingdatabase.com/paduasabre2022/FaroffJovialHairstreak.mp4
+4510,49,FearlessRaggedDwarfmongoose,sabre,fotl,middle,head,1673456912,FearlessRaggedDwarfmongoose,cairosabre2019,sabre,male,Giovanni Repetti,,6,9,left,https://clips.fencingdatabase.com/cairosabre2019/FearlessRaggedDwarfmongoose.mp4
+4511,50,FluffyReliableArctichare,sabre,fotr,middle,front_arm,1673456951,FluffyReliableArctichare,budapestsabre2019,sabre,male,Veniamin Reshetnikov,Szilagyi Aron,8,4,left,https://clips.fencingdatabase.com/budapestsabre2019/FluffyReliableArctichare.mp4
+4513,53,SeriousWickedAbalone,sabre,fotl,middle,front_arm,1673457074,SeriousWickedAbalone,cairosabre2019,sabre,female,Kim Jiyeon,Teodora Kakhiani,6,1,left,https://clips.fencingdatabase.com/cairosabre2019/SeriousWickedAbalone.mp4
+4520,64,DismalGlassAndeancat,sabre,fotr,middle,torso,1673920758,DismalGlassAndeancat,seoulsabre2019,sabre,male,Dmitriy Danilenko,Andrew Mackiewicz,4,3,right,https://clips.fencingdatabase.com/seoulsabre2019/DismalGlassAndeancat.mp4
+4532,78,MisguidedRecklessBillygoat,sabre,fotl,middle,front_arm,1674335034,MisguidedRecklessBillygoat,cairosabre2019,sabre,male,Szilagyi Aron,Bolade Apithy,4,4,left,https://clips.fencingdatabase.com/cairosabre2019/MisguidedRecklessBillygoat.mp4
+4539,92,FrenchIncompatibleCorydorascatfish,sabre,fotl,fotr_half,front_arm,1674944895,FrenchIncompatibleCorydorascatfish,cancunsabre2017,sabre,male,Gemesi Csanad,Dario Cavaliere,11,4,left,https://clips.fencingdatabase.com/cancunsabre2017/FrenchIncompatibleCorydorascatfish.mp4
+4547,3,ShockingMindlessCuscus,sabre,fotl,fotr_half,head,1674945454,ShockingMindlessCuscus,orleanssabre2022,sabre,,Ali Pakdaman,Adel Almutairi,7,11,left,https://clips.fencingdatabase.com/orleanssabre2022/ShockingMindlessCuscus.mp4
+4550,6,LimpingEssentialBumblebee,sabre,fotl,fotr_half,torso,1674946068,LimpingEssentialBumblebee,seoulsabre2019,sabre,female,Manon Apithy - Brunet,Laia Vila,9,5,right,https://clips.fencingdatabase.com/seoulsabre2019/LimpingEssentialBumblebee.mp4
+4554,14,DeepThoseGrizzlybear,sabre,fotr,middle,head,1675111584,DeepThoseGrizzlybear,worldchamps2022,sabre,male,Daryl Homer,Fares Arfa,3,3,left,https://clips.fencingdatabase.com/worldchamps2022/DeepThoseGrizzlybear.mp4
+4562,27,MagnificentFoolhardyBlackbird,sabre,fotl,middle,torso,1675504252,MagnificentFoolhardyBlackbird,cancunsabre2017,sabre,male,Riccardo Nuccio,Alberto Pellegrini,3,1,right,https://clips.fencingdatabase.com/cancunsabre2017/MagnificentFoolhardyBlackbird.mp4
+4563,28,TanElectricJackal,sabre,fotr,fotl_half,front_arm,1675599741,TanElectricJackal,tunisiasabre2022,sabre,female,Carlo Di,Jeon Eunhye,3,2,right,https://clips.fencingdatabase.com/tunisiasabre2022/TanElectricJackal.mp4
+4579,58,UntriedVigorousCaterpillar,sabre,fotl,middle,torso,1675985880,UntriedVigorousCaterpillar,worldchamps2022,sabre,male,Enver Yildirim,William Deary,14,12,right,https://clips.fencingdatabase.com/worldchamps2022/UntriedVigorousCaterpillar.mp4
+4580,59,InformalDependableLeech,sabre,fotr,fotl_warning_box,head,1675985904,InformalDependableLeech,cancunsabre2017,sabre,male,Tiberiu Dolniceanu,William Deary,6,9,right,https://clips.fencingdatabase.com/cancunsabre2017/InformalDependableLeech.mp4
+4589,69,AmusedMealyIndusriverdolphin,sabre,fotr,fotl_half,front_arm,1676054087,AmusedMealyIndusriverdolphin,orleanssabre2022,sabre,,Magda Skarbonkiewicz,Pusztai Liza,3,4,right,https://clips.fencingdatabase.com/orleanssabre2022/AmusedMealyIndusriverdolphin.mp4
+4591,71,MildDelayedEnglishpointer,sabre,,fotl_half,head,1676238691,MildDelayedEnglishpointer,seoulsabre2019,sabre,female,Olga Kharlan,Emura Misaki,15,5,left,https://clips.fencingdatabase.com/seoulsabre2019/MildDelayedEnglishpointer.mp4
+4606,96,CalculatingFaithfulAiredaleterrier,sabre,fotl,middle,hand,1677114699,CalculatingFaithfulAiredaleterrier,worldchamps2022,sabre,male,Musa Aymuratov,Vasyl Humen,5,8,right,https://clips.fencingdatabase.com/worldchamps2022/CalculatingFaithfulAiredaleterrier.mp4
+4610,0,GargantuanJointAfricanfisheagle,sabre,fotl,fotl_half,torso,1677213581,GargantuanJointAfricanfisheagle,seoulsabre2019,sabre,female,Dina Galiakbarova,Anna Limbach,6,6,left,https://clips.fencingdatabase.com/seoulsabre2019/GargantuanJointAfricanfisheagle.mp4
+4611,4,NarrowGargantuanBarbet,sabre,fotr,fotl_half,hand,1677457277,NarrowGargantuanBarbet,moscowwch2015,sabre,,Nicolas Rousset,Renzo Agresta,13,10,left,https://clips.fencingdatabase.com/moscowwch2015/NarrowGargantuanBarbet.mp4
+4612,5,ForsakenElasticBasenji,sabre,fotr,fotl_warning_box,front_arm,1677457405,ForsakenElasticBasenji,cancunsabre2017,sabre,male,Eli Dershwitz,,14,9,right,https://clips.fencingdatabase.com/cancunsabre2017/ForsakenElasticBasenji.mp4
+4613,6,NextQuarrelsomeEstuarinecrocodile,sabre,fotr,fotl_warning_box,front_arm,1677457465,NextQuarrelsomeEstuarinecrocodile,madridsabre2022,sabre,male,Eli Dershwitz,Hoshino Kento,14,8,right,https://clips.fencingdatabase.com/madridsabre2022/NextQuarrelsomeEstuarinecrocodile.mp4
+4618,11,TediousUnitedBurro,sabre,fotr,middle,torso,1677707412,TediousUnitedBurro,worldchamps2022,sabre,male,Xuan Loi Nguyen,Kim Junghwan,5,9,right,https://clips.fencingdatabase.com/worldchamps2022/TediousUnitedBurro.mp4
+4620,16,AcrobaticEarlyAngelfish,sabre,neither,fotl_warning_box,hand,1678057787,AcrobaticEarlyAngelfish,cairosabre2019,sabre,male,Luigi Samele,Kim Kyehwan,8,12,right,https://clips.fencingdatabase.com/cairosabre2019/AcrobaticEarlyAngelfish.mp4
+4624,22,InsecureHomelyGazelle,sabre,fotr,middle,torso,1678995600,InsecureHomelyGazelle,orleanssabre2021,sabre,,Yoshida Kento,Daryl Homer,1,4,right,https://clips.fencingdatabase.com/orleanssabre2021/InsecureHomelyGazelle.mp4
+4629,31,PoshPotableDuckbillcat,sabre,neither,middle,torso,1679879259,PoshPotableDuckbillcat,madridsabre2022,sabre,male,Arne De   Ridder,Santiago Madrigal,9,10,right,https://clips.fencingdatabase.com/madridsabre2022/PoshPotableDuckbillcat.mp4
+4630,32,ImportantCheapFoal,sabre,fotr,middle,torso,1679879332,ImportantCheapFoal,algierssabre2022,sabre,male,Ali Pakdaman,Giacomo Mignuzzi,5,3,right,https://clips.fencingdatabase.com/algierssabre2022/ImportantCheapFoal.mp4
+4646,63,OrderlyWearyClingfish,sabre,,fotl_warning_box,torso,1682513437,OrderlyWearyClingfish,moscowwch2015,sabre,,Renzo Agresta,Gu Bongil,9,8,left,https://clips.fencingdatabase.com/moscowwch2015/OrderlyWearyClingfish.mp4
+4649,69,LegitimateMadeupIrishredandwhitesetter,sabre,fotr,middle,torso,1683121566,LegitimateMadeupIrishredandwhitesetter,worldchamps2022,sabre,male,Szilagyi Aron,Sandro Bazadze,13,10,right,https://clips.fencingdatabase.com/worldchamps2022/LegitimateMadeupIrishredandwhitesetter.mp4
+4650,70,AngelicEntireAfricanmolesnake,sabre,fotr,middle,torso,1683121589,AngelicEntireAfricanmolesnake,budapestsabre2021,sabre,,Eliott Bibi,Oh Sanguk,11,12,left,https://clips.fencingdatabase.com/budapestsabre2021/AngelicEntireAfricanmolesnake.mp4
+4652,73,ZealousNextElver,sabre,fotl,middle,torso,1683121749,ZealousNextElver,cancunsabre2017,sabre,female,Manon Apithy - Brunet,Milagros Pastran,3,3,left,https://clips.fencingdatabase.com/cancunsabre2017/ZealousNextElver.mp4
+4653,74,CoordinatedFlippantAndalusianhorse,sabre,fotl,middle,torso,1683121773,CoordinatedFlippantAndalusianhorse,cancunsabre2017,sabre,female,Chiara Mormile,Bianca Pascu,2,9,left,https://clips.fencingdatabase.com/cancunsabre2017/CoordinatedFlippantAndalusianhorse.mp4
+4654,75,HalfExemplaryGoose,sabre,fotl,middle,torso,1683121789,HalfExemplaryGoose,orleanssabre2021,sabre,,Anna Bashta,Laszlo Luca,8,1,left,https://clips.fencingdatabase.com/orleanssabre2021/HalfExemplaryGoose.mp4
+4657,78,GleamingBrilliantHarvestmouse,sabre,fotl,middle,torso,1683122073,GleamingBrilliantHarvestmouse,budapestsabre2019,sabre,male,Mohammad Fotouhi,Tiberiu Dolniceanu,6,10,right,https://clips.fencingdatabase.com/budapestsabre2019/GleamingBrilliantHarvestmouse.mp4
+4658,79,QuarterlyIgnorantFowl,sabre,fotl,fotr_half,torso,1683122089,QuarterlyIgnorantFowl,moscowwch2015,sabre,,Shen Chen,Cecilia Berder,7,0,left,https://clips.fencingdatabase.com/moscowwch2015/QuarterlyIgnorantFowl.mp4
+4663,87,OffensiveFormalBaiji,sabre,fotl,fotr_half,torso,1683634188,OffensiveFormalBaiji,eurochamps2022,sabre,male,Barnaby Halliwell,Beka Bazadze,9,12,left,https://clips.fencingdatabase.com/eurochamps2022/OffensiveFormalBaiji.mp4
+4664,89,InfiniteImpishClumber,sabre,fotr,fotl_half,torso,1683673699,InfiniteImpishClumber,moscowsabre2012,sabre,,Adam Skrodzki,Julien Pillet,5,6,right,https://clips.fencingdatabase.com/moscowsabre2012/InfiniteImpishClumber.mp4
+4665,90,ImperturbableWateryEuropeanpolecat,sabre,fotr,fotl_warning_box,back_arm,1683673751,ImperturbableWateryEuropeanpolecat,budapestsabre2021,sabre,,Veniamin Reshetnikov,Sandro Bazadze,4,4,left,https://clips.fencingdatabase.com/budapestsabre2021/ImperturbableWateryEuropeanpolecat.mp4
+4666,91,UnhappySilentGrayreefshark,sabre,fotr,middle,head,1683673789,UnhappySilentGrayreefshark,seoulsabre2019,sabre,male,Aldo Montano,Ha Hansol,8,11,right,https://clips.fencingdatabase.com/seoulsabre2019/UnhappySilentGrayreefshark.mp4
+4674,7,MiserlyThisDiamondbackrattlesnake,sabre,,fotl_warning_box,hand,1685572253,MiserlyThisDiamondbackrattlesnake,tunisiasabre2022,sabre,female,Yoana Ilieva,Takashima Risa,14,9,right,https://clips.fencingdatabase.com/tunisiasabre2022/MiserlyThisDiamondbackrattlesnake.mp4
+4676,10,OpulentContentDiplodocus,sabre,,fotl_warning_box,hand,1685572266,OpulentContentDiplodocus,madridsabre2022,sabre,male,Mohamed Amer,Mohammad Rahbari,2,3,right,https://clips.fencingdatabase.com/madridsabre2022/OpulentContentDiplodocus.mp4
+4677,11,SingleAbleClam,sabre,,fotl_warning_box,hand,1685572271,SingleAbleClam,moscowsabre2012,sabre,,Dagmara Wozniak,Olga Kharlan,6,10,right,https://clips.fencingdatabase.com/moscowsabre2012/SingleAbleClam.mp4
+4684,19,ColossalAdorableHarvestmen,sabre,,fotl_warning_box,hand,1685572344,ColossalAdorableHarvestmen,madridsabre2022,sabre,male,Lee Jonghyun,Alexandru Zmau,8,8,left,https://clips.fencingdatabase.com/madridsabre2022/ColossalAdorableHarvestmen.mp4
+4687,22,FreePleasingErne,sabre,,fotl_warning_box,hand,1685572354,FreePleasingErne,orleanssabre2022,sabre,,Santiago Madrigal,Mattia Rea,11,13,right,https://clips.fencingdatabase.com/orleanssabre2022/FreePleasingErne.mp4
+4689,24,EntireNeedyBandicoot,sabre,,fotl_warning_box,hand,1685572361,EntireNeedyBandicoot,budapestsabre2021,sabre,,Matteo Neri,Szatmari Andras,13,11,right,https://clips.fencingdatabase.com/budapestsabre2021/EntireNeedyBandicoot.mp4
+4691,26,EllipticalRectangularHen,sabre,,fotl_warning_box,hand,1685572367,EllipticalRectangularHen,orleanssabre2022,sabre,,Magda Skarbonkiewicz,Maria Ventura,13,10,left,https://clips.fencingdatabase.com/orleanssabre2022/EllipticalRectangularHen.mp4
+4692,27,ShrillFrankIslandcanary,sabre,,fotl_warning_box,hand,1685572371,ShrillFrankIslandcanary,eurochamps2022,sabre,male,Razvan Ursachi,Sandro Bazadze,4,5,left,https://clips.fencingdatabase.com/eurochamps2022/ShrillFrankIslandcanary.mp4
+4695,31,ScornfulScentedBellfrog,sabre,fotl,fotl_warning_box,hand,1685572404,ScornfulScentedBellfrog,worldchamps2022,sabre,male,Daryl Homer,Fares Arfa,8,6,left,https://clips.fencingdatabase.com/worldchamps2022/ScornfulScentedBellfrog.mp4
+4700,36,ThisWhiteBuzzard,sabre,,fotl_warning_box,hand,1685574338,ThisWhiteBuzzard,montrealsabre2020,sabre,male,Dmitriy Danilenko,Jung Jaeseung,0,1,right,https://clips.fencingdatabase.com/montrealsabre2020/ThisWhiteBuzzard.mp4
+4701,38,PaltryMammothDobermanpinscher,sabre,,fotl_warning_box,hand,1685574344,PaltryMammothDobermanpinscher,budapestsabre2021,sabre,,Mojtaba Abedini,Matyas Szabo,7,14,right,https://clips.fencingdatabase.com/budapestsabre2021/PaltryMammothDobermanpinscher.mp4
+4708,48,AffectionateHopefulLeonberger,sabre,fotl,fotr_half,torso,1688459148,AffectionateHopefulLeonberger,worldchamps2022,sabre,female,Araceli Navarro,Caroline Queroli,12,6,left,https://clips.fencingdatabase.com/worldchamps2022/AffectionateHopefulLeonberger.mp4
+4717,63,importantLabmaranerBraccoItaliano,sabre,fotl,fotr_half,head,1689282148,importantLabmaranerBraccoItaliano,batumisabre2023,sabre,female,Caroline Queroli,Michela Landi,15,8,left,https://clips.fencingdatabase.com/batumisabre2023/importantLabmaranerBraccoItaliano.mp4
+4720,68,BowedFakeBarasinga,sabre,,fotl_warning_box,hand,1690472759,BowedFakeBarasinga,moscowsabre2012,sabre,,Aida Alasgarova,Leonore Perrus,0,1,right,https://clips.fencingdatabase.com/moscowsabre2012/BowedFakeBarasinga.mp4
+4721,69,UnluckyConfusedGopher,sabre,,fotl_warning_box,hand,1690472777,UnluckyConfusedGopher,moscowwch2015,sabre,,Vassiliki Vougiouka,Marton Anna,1,1,left,https://clips.fencingdatabase.com/moscowwch2015/UnluckyConfusedGopher.mp4
+4726,87,combativeWoolCarderBeeEnglishLonghornCattle,sabre,fotl,middle,front_arm,1693507341,combativeWoolCarderBeeEnglishLonghornCattle,eurossabre2023,sabre,female,Yoana Ilieva,Ilinca Pantis,13,4,left,https://clips.fencingdatabase.com/eurossabre2023/combativeWoolCarderBeeEnglishLonghornCattle.mp4
+4731,95,WetBareElephant,sabre,fotl,fotr_warning_box,hand,1694794299,WetBareElephant,moscowwch2015,sabre,,Szilagyi Aron,Cecilia Berder,3,2,left,https://clips.fencingdatabase.com/moscowwch2015/WetBareElephant.mp4
+4732,96,inquisitivePointerMixTussockMoth,sabre,fotl,middle,head,1694794329,inquisitivePointerMixTussockMoth,champssabre2023,sabre,male,William Deary,Medhat Moataz,3,5,left,https://clips.fencingdatabase.com/champssabre2023/inquisitivePointerMixTussockMoth.mp4
+4733,99,ChubbyHeftyGalapagospenguin,sabre,fotl,middle,front_arm,1694908101,ChubbyHeftyGalapagospenguin,montrealsabre2020,sabre,male,Anatoliy Kostenko,Aldo Montano,1,1,left,https://clips.fencingdatabase.com/montrealsabre2020/ChubbyHeftyGalapagospenguin.mp4
+4734,0,ugliestCombJellyfishGiraffe,sabre,fotr,middle,back_arm,1694908268,ugliestCombJellyfishGiraffe,champssabre2023,sabre,male,Sebastien Patrice,Mitchell Saron,7,11,right,https://clips.fencingdatabase.com/champssabre2023/ugliestCombJellyfishGiraffe.mp4
+4736,3,DelightfulSecondBobwhite,sabre,fotl,middle,back_arm,1695144216,DelightfulSecondBobwhite,cancunsabre2017,sabre,male,Mojtaba Abedini,Alin Badea,14,13,left,https://clips.fencingdatabase.com/cancunsabre2017/DelightfulSecondBobwhite.mp4
+4737,7,ScholarlyUniqueFrillneckedlizard,sabre,fotl,middle,front_arm,1695316579,ScholarlyUniqueFrillneckedlizard,tunisiasabre2022,sabre,female,Sabina Martis,Olga Kharlan,7,4,left,https://clips.fencingdatabase.com/tunisiasabre2022/ScholarlyUniqueFrillneckedlizard.mp4
+4739,12,grievingTentCaterpillarSawfish,sabre,neither,middle,head,1695595829,grievingTentCaterpillarSawfish,champssabre2023,sabre,female,Caitlin Maxwell,Araceli Navarro,13,11,right,https://clips.fencingdatabase.com/champssabre2023/grievingTentCaterpillarSawfish.mp4
+4741,16,MassiveFearlessEastrussiancoursinghounds,sabre,fotl,middle,head,1696226834,MassiveFearlessEastrussiancoursinghounds,tunisiasabre2022,sabre,female,Yuliia Bakastova,Yoana Ilieva,7,5,right,https://clips.fencingdatabase.com/tunisiasabre2022/MassiveFearlessEastrussiancoursinghounds.mp4
+4742,18,magnificentLimpetSilverLabrador,sabre,fotr,middle,front_arm,1697402970,magnificentLimpetSilverLabrador,seoulsabre2023,sabre,,Kim Jiyeon,Elizabeth Tartakovsky,10,8,left,https://clips.fencingdatabase.com/seoulsabre2023/magnificentLimpetSilverLabrador.mp4
+4743,19,EuphoricGiddyGarpike,sabre,fotr,middle,front_arm,1697403058,EuphoricGiddyGarpike,tunissabre2017,sabre,female,Iryna Shchukla,Olga Zhovnir,2,2,left,https://clips.fencingdatabase.com/tunissabre2017/EuphoricGiddyGarpike.mp4
+4744,20,crowdedChineseCrestedDogInsects,sabre,fotr,middle,front_arm,1697403139,crowdedChineseCrestedDogInsects,champssabre2023,sabre,female,Sara Balzer,Shao Yaqi,12,6,left,https://clips.fencingdatabase.com/champssabre2023/crowdedChineseCrestedDogInsects.mp4
+4745,22,NastyFeistyAdouri,sabre,fotr,fotl_half,front_arm,1697403240,NastyFeistyAdouri,cairosabre2019,sabre,female,Arianna Errigo,Aigerim Sarybay,14,1,right,https://clips.fencingdatabase.com/cairosabre2019/NastyFeistyAdouri.mp4
+4746,23,ashamedDoxiepooTenterfieldTerrier,sabre,fotr,fotl_half,torso,1697403293,ashamedDoxiepooTenterfieldTerrier,champssabre2023,sabre,female,Magda Skarbonkiewicz,Wing Kiu Chu,1,1,right,https://clips.fencingdatabase.com/champssabre2023/ashamedDoxiepooTenterfieldTerrier.mp4
+4747,24,FineLeafyKittiwake,sabre,fotl,middle,torso,1697403377,FineLeafyKittiwake,cancunsabre2017,sabre,female,Olga Kharlan,Yang Hengyu,2,1,left,https://clips.fencingdatabase.com/cancunsabre2017/FineLeafyKittiwake.mp4
+4748,25,RectangularCoarseCrayfish,sabre,fotr,middle,front_arm,1697403449,RectangularCoarseCrayfish,paduasabre2022,sabre,,Chloe Foxgitomer,Carlotta Fusetti,9,11,right,https://clips.fencingdatabase.com/paduasabre2022/RectangularCoarseCrayfish.mp4
+4749,26,gleamingOlingoVampireBat,sabre,fotr,middle,front_arm,1697403511,gleamingOlingoVampireBat,seoulsabre2023,sabre,,Magda Skarbonkiewicz,Manon Apithy - Brunet,5,4,left,https://clips.fencingdatabase.com/seoulsabre2023/gleamingOlingoVampireBat.mp4
+4750,27,DefensiveDemandingAnaconda,sabre,fotr,middle,front_arm,1697403544,DefensiveDemandingAnaconda,seoulsabre2019,sabre,male,Deng Xiaohao,Maxime Pianfetti,6,4,right,https://clips.fencingdatabase.com/seoulsabre2019/DefensiveDemandingAnaconda.mp4
+4751,32,AlertAnxiousGourami,sabre,fotr,middle,torso,1697978633,AlertAnxiousGourami,algierssabre2022,sabre,female,Elisabeth Gette,Pusztai Liza,13,14,right,https://clips.fencingdatabase.com/algierssabre2022/AlertAnxiousGourami.mp4
+4752,33,MenacingHorribleAldabratortoise,sabre,fotl,middle,torso,1697978743,MenacingHorribleAldabratortoise,algierssabre2022,sabre,female,Seo Jiyeon,Faustine Clapier,6,3,left,https://clips.fencingdatabase.com/algierssabre2022/MenacingHorribleAldabratortoise.mp4
+4753,34,EarlyTepidAmericanalligator,sabre,fotl,fotl_warning_box,hand,1697978799,EarlyTepidAmericanalligator,algierssabre2022,sabre,female,Elisabeth Gette,Pusztai Liza,4,3,right,https://clips.fencingdatabase.com/algierssabre2022/EarlyTepidAmericanalligator.mp4
+4754,35,WeepyCoarseCaudata,sabre,fotr,middle,torso,1697978849,WeepyCoarseCaudata,algierssabre2022,sabre,female,Sara Balzer,Martina Criscio,9,2,left,https://clips.fencingdatabase.com/algierssabre2022/WeepyCoarseCaudata.mp4
+4755,36,CraftyTestyBongo,sabre,fotr,fotr_warning_box,front_arm,1697978932,CraftyTestyBongo,algierssabre2022,sabre,female,Martina Criscio,Olga Kharlan,3,5,right,https://clips.fencingdatabase.com/algierssabre2022/CraftyTestyBongo.mp4
+4756,37,ForcefulGreedyApisdorsatalaboriosa,sabre,fotr,middle,hand,1697978971,ForcefulGreedyApisdorsatalaboriosa,algierssabre2022,sabre,female,Pamela Brindamour,Nisanur Erbil,2,3,right,https://clips.fencingdatabase.com/algierssabre2022/ForcefulGreedyApisdorsatalaboriosa.mp4
+4757,38,AppropriateDisastrousBarnowl,sabre,fotr,middle,torso,1697979020,AppropriateDisastrousBarnowl,algierssabre2022,sabre,female,Sara Balzer,Martina Criscio,6,2,left,https://clips.fencingdatabase.com/algierssabre2022/AppropriateDisastrousBarnowl.mp4
+4758,39,AngrySimpleIridescentshark,sabre,fotr,middle,front_arm,1697979136,AngrySimpleIridescentshark,algierssabre2022,sabre,female,Yoon Jisu,Nisanur Erbil,13,13,left,https://clips.fencingdatabase.com/algierssabre2022/AngrySimpleIridescentshark.mp4
+4759,40,ThosePlumpDogwoodtwigborer,sabre,fotr,middle,front_arm,1697979180,ThosePlumpDogwoodtwigborer,algierssabre2022,sabre,female,Despina Georgiadou,Theodora Gkountoura,8,10,right,https://clips.fencingdatabase.com/algierssabre2022/ThosePlumpDogwoodtwigborer.mp4
+4760,41,FamiliarGreatButterfly,sabre,fotr,middle,torso,1697979216,FamiliarGreatButterfly,algierssabre2022,sabre,female,Sara Balzer,Martina Criscio,14,8,right,https://clips.fencingdatabase.com/algierssabre2022/FamiliarGreatButterfly.mp4
+4763,44,SoggyCalmGoa,sabre,fotr,middle,front_arm,1698546862,SoggyCalmGoa,algierssabre2022,sabre,female,Sara Balzer,Rebecca Gargano,10,8,right,https://clips.fencingdatabase.com/algierssabre2022/SoggyCalmGoa.mp4
+4764,45,PinkEssentialAmericanredsquirrel,sabre,fotl,middle,hand,1698546939,PinkEssentialAmericanredsquirrel,algierssabre2022,sabre,female,Yoon Jisu,Nisanur Erbil,10,5,left,https://clips.fencingdatabase.com/algierssabre2022/PinkEssentialAmericanredsquirrel.mp4
+4765,46,InferiorSnarlingJenny,sabre,fotl,fotl_warning_box,torso,1698546999,InferiorSnarlingJenny,algierssabre2022,sabre,female,Wakita Jumi,Saoussen Boudiaf,2,1,right,https://clips.fencingdatabase.com/algierssabre2022/InferiorSnarlingJenny.mp4
+4766,47,LastCrazyLiger,sabre,fotl,fotl_half,front_arm,1698547050,LastCrazyLiger,algierssabre2022,sabre,female,Paola Pliego,Yoon Jisu,11,12,right,https://clips.fencingdatabase.com/algierssabre2022/LastCrazyLiger.mp4
+4767,48,ConfusedDesertedGangesdolphin,sabre,fotl,fotl_half,torso,1698547089,ConfusedDesertedGangesdolphin,algierssabre2022,sabre,female,Elisabeth Gette,Pusztai Liza,5,5,right,https://clips.fencingdatabase.com/algierssabre2022/ConfusedDesertedGangesdolphin.mp4
+4768,49,JollyConventionalKodiakbear,sabre,fotr,middle,hand,1698547114,JollyConventionalKodiakbear,algierssabre2022,sabre,female,Wakita Jumi,Saoussen Boudiaf,10,8,left,https://clips.fencingdatabase.com/algierssabre2022/JollyConventionalKodiakbear.mp4
+4769,50,PhysicalBadGalapagosmockingbird,sabre,fotl,middle,front_arm,1698547178,PhysicalBadGalapagosmockingbird,algierssabre2022,sabre,female,Despina Georgiadou,Zhuang Chenyi,15,5,left,https://clips.fencingdatabase.com/algierssabre2022/PhysicalBadGalapagosmockingbird.mp4
+4770,51,ThoseEnviousFoxterrier,sabre,fotl,middle,front_arm,1698547250,ThoseEnviousFoxterrier,algierssabre2022,sabre,female,Zhuang Chenyi,Mathilde Mouroux,0,1,right,https://clips.fencingdatabase.com/algierssabre2022/ThoseEnviousFoxterrier.mp4
+4771,52,UncomfortableNegligibleIzuthrush,sabre,fotr,middle,head,1698547320,UncomfortableNegligibleIzuthrush,algierssabre2022,sabre,male,Tokunan Kenta,Maxime Pianfetti,6,12,left,https://clips.fencingdatabase.com/algierssabre2022/UncomfortableNegligibleIzuthrush.mp4
+4772,53,EvilLargeGrasshopper,sabre,fotl,fotl_warning_box,front_arm,1698547376,EvilLargeGrasshopper,algierssabre2022,sabre,female,Theodora Gkountoura,Saoussen Boudiaf,11,11,left,https://clips.fencingdatabase.com/algierssabre2022/EvilLargeGrasshopper.mp4
+4774,55,RipeDismalDogwoodtwigborer,sabre,fotr,fotl_warning_box,front_arm,1699209802,RipeDismalDogwoodtwigborer,algierssabre2022,sabre,female,Martina Criscio,Olga Kharlan,9,10,right,https://clips.fencingdatabase.com/algierssabre2022/RipeDismalDogwoodtwigborer.mp4
+4775,56,WideeyedUnhealthyGopher,sabre,fotr,middle,torso,1699209860,WideeyedUnhealthyGopher,algierssabre2022,sabre,female,Toscane Tori,Sara Balzer,0,6,right,https://clips.fencingdatabase.com/algierssabre2022/WideeyedUnhealthyGopher.mp4
+4776,57,VengefulBlushingLeafhopper,sabre,fotr,middle,front_arm,1699209911,VengefulBlushingLeafhopper,algierssabre2022,sabre,female,Despina Georgiadou,Theodora Gkountoura,13,14,left,https://clips.fencingdatabase.com/algierssabre2022/VengefulBlushingLeafhopper.mp4
+4777,58,MeatySourClumber,sabre,fotl,middle,front_arm,1699209968,MeatySourClumber,algierssabre2022,sabre,female,Elisabeth Gette,Pusztai Liza,5,3,left,https://clips.fencingdatabase.com/algierssabre2022/MeatySourClumber.mp4
+4778,59,KindheartedPerfectHake,sabre,fotl,middle,front_arm,1699210022,KindheartedPerfectHake,algierssabre2022,sabre,female,Despina Georgiadou,Theodora Gkountoura,9,11,right,https://clips.fencingdatabase.com/algierssabre2022/KindheartedPerfectHake.mp4
+4779,60,AlertMiniatureFugu,sabre,fotr,fotl_warning_box,torso,1699210103,AlertMiniatureFugu,algierssabre2022,sabre,female,Martina Criscio,Emura Misaki,2,5,right,https://clips.fencingdatabase.com/algierssabre2022/AlertMiniatureFugu.mp4
+4780,61,CompassionateTemptingEquestrian,sabre,fotr,middle,front_arm,1699210256,CompassionateTemptingEquestrian,algierssabre2022,sabre,female,Elisabeth Gette,Pusztai Liza,7,7,right,https://clips.fencingdatabase.com/algierssabre2022/CompassionateTemptingEquestrian.mp4
+4781,62,FemaleSmugCats,sabre,fotl,fotl_warning_box,hand,1699210297,FemaleSmugCats,algierssabre2022,sabre,female,Despina Georgiadou,Nisanur Erbil,12,6,left,https://clips.fencingdatabase.com/algierssabre2022/FemaleSmugCats.mp4
+4782,63,ShimmeringEvilBat,sabre,fotl,middle,front_arm,1699210329,ShimmeringEvilBat,algierssabre2022,sabre,female,Despina Georgiadou,Theodora Gkountoura,5,5,right,https://clips.fencingdatabase.com/algierssabre2022/ShimmeringEvilBat.mp4
+4783,64,AlienatedVeneratedGoosefish,sabre,fotl,fotl_warning_box,hand,1699210368,AlienatedVeneratedGoosefish,algierssabre2022,sabre,female,Seo Jiyeon,Faustine Clapier,5,2,left,https://clips.fencingdatabase.com/algierssabre2022/AlienatedVeneratedGoosefish.mp4
+4784,65,ScalyPleasantAmazonparrot,sabre,fotr,middle,torso,1699213888,ScalyPleasantAmazonparrot,cairosabre2019,sabre,male,William Deary,Oh Sanguk,2,4,right,https://clips.fencingdatabase.com/cairosabre2019/ScalyPleasantAmazonparrot.mp4
+4786,67,ShabbyIllustriousAfricanpiedkingfisher,sabre,fotr,middle,torso,1699214111,ShabbyIllustriousAfricanpiedkingfisher,orleanssabre2021,sabre,,Luca Curatoli,Kim Junghwan,0,5,right,https://clips.fencingdatabase.com/orleanssabre2021/ShabbyIllustriousAfricanpiedkingfisher.mp4
+4787,68,CautiousAngelicAzurewingedmagpie,sabre,fotl,fotl_half,head,1699214342,CautiousAngelicAzurewingedmagpie,tunisiasabre2022,sabre,female,Emura Misaki,Julika Funke,12,4,left,https://clips.fencingdatabase.com/tunisiasabre2022/CautiousAngelicAzurewingedmagpie.mp4
+4796,77,ForcefulBonyBilby,sabre,fotl,middle,torso,1699223687,ForcefulBonyBilby,orleanssabre2022,sabre,,Gu Bongil,Decsi Tamas,8,4,left,https://clips.fencingdatabase.com/orleanssabre2022/ForcefulBonyBilby.mp4
+4799,83,TerrificWildCreature,sabre,fotl,middle,front_arm,1699813246,TerrificWildCreature,algierssabre2022,sabre,female,Despina Georgiadou,Zhuang Chenyi,10,5,left,https://clips.fencingdatabase.com/algierssabre2022/TerrificWildCreature.mp4
+4800,84,PastelMenacingDodobird,sabre,fotl,middle,hand,1699813294,PastelMenacingDodobird,algierssabre2022,sabre,male,Tokunan Kenta,Lorenz Kempf,1,0,left,https://clips.fencingdatabase.com/algierssabre2022/PastelMenacingDodobird.mp4
+4801,85,PotableShamefulAracari,sabre,fotr,middle,torso,1699813361,PotableShamefulAracari,algierssabre2022,sabre,female,Martina Criscio,Olga Kharlan,11,10,left,https://clips.fencingdatabase.com/algierssabre2022/PotableShamefulAracari.mp4
+4802,86,TanIllegalDove,sabre,fotr,fotl_half,torso,1699813404,TanIllegalDove,algierssabre2022,sabre,female,Martina Criscio,Emura Misaki,14,12,right,https://clips.fencingdatabase.com/algierssabre2022/TanIllegalDove.mp4
+4803,87,BrokenTenderEquestrian,sabre,fotr,middle,front_arm,1699813488,BrokenTenderEquestrian,algierssabre2022,sabre,female,Despina Georgiadou,Zhuang Chenyi,6,4,left,https://clips.fencingdatabase.com/algierssabre2022/BrokenTenderEquestrian.mp4
+4804,88,GlamorousQueasyAdder,sabre,fotl,middle,torso,1699813530,GlamorousQueasyAdder,algierssabre2022,sabre,female,Theodora Gkountoura,Mukae Ayaka,13,14,left,https://clips.fencingdatabase.com/algierssabre2022/GlamorousQueasyAdder.mp4
+4805,89,DependableFantasticKookaburra,sabre,fotl,middle,torso,1699813618,DependableFantasticKookaburra,algierssabre2022,sabre,female,Sara Balzer,Rebecca Gargano,13,10,left,https://clips.fencingdatabase.com/algierssabre2022/DependableFantasticKookaburra.mp4
+4806,90,SparklingGraveChrysalis,sabre,fotl,middle,torso,1699813688,SparklingGraveChrysalis,algierssabre2022,sabre,female,Yoon Jisu,Nisanur Erbil,12,13,right,https://clips.fencingdatabase.com/algierssabre2022/SparklingGraveChrysalis.mp4
+4807,91,HairyExcitableDeinonychus,sabre,fotl,fotr_half,torso,1699813811,HairyExcitableDeinonychus,algierssabre2022,sabre,female,Saoussen Boudiaf,Pusztai Liza,12,7,left,https://clips.fencingdatabase.com/algierssabre2022/HairyExcitableDeinonychus.mp4
+4808,92,EthicalCarelessBarnowl,sabre,fotl,fotr_warning_box,torso,1699813900,EthicalCarelessBarnowl,algierssabre2022,sabre,female,Theodora Gkountoura,Mukae Ayaka,11,10,right,https://clips.fencingdatabase.com/algierssabre2022/EthicalCarelessBarnowl.mp4
+4809,93,UnacceptableFatIvorybilledwoodpecker,sabre,fotr,middle,torso,1699813968,UnacceptableFatIvorybilledwoodpecker,algierssabre2022,sabre,female,Zhuang Chenyi,Mathilde Mouroux,6,11,left,https://clips.fencingdatabase.com/algierssabre2022/UnacceptableFatIvorybilledwoodpecker.mp4
+4810,94,FeminineAmazingDotterel,sabre,fotr,fotl_warning_box,front_arm,1699814024,FeminineAmazingDotterel,algierssabre2022,sabre,female,Despina Georgiadou,Claudia Rotili,13,5,left,https://clips.fencingdatabase.com/algierssabre2022/FeminineAmazingDotterel.mp4
+4811,95,AgonizingBelovedAmericanlobster,sabre,fotr,middle,front_arm,1699814182,AgonizingBelovedAmericanlobster,algierssabre2022,sabre,female,Sara Balzer,Martina Criscio,13,6,right,https://clips.fencingdatabase.com/algierssabre2022/AgonizingBelovedAmericanlobster.mp4
+4812,96,ColorlessPreciousFruitfly,sabre,fotr,middle,hand,1699814232,ColorlessPreciousFruitfly,algierssabre2022,sabre,female,Theodora Gkountoura,Seo Jiyeon,4,2,left,https://clips.fencingdatabase.com/algierssabre2022/ColorlessPreciousFruitfly.mp4
+4813,0,DetailedHardAllensbigearedbat,sabre,fotr,middle,head,1700118520,DetailedHardAllensbigearedbat,budapestsabre2021,sabre,,Veniamin Reshetnikov,Nada Hafez,8,13,left,https://clips.fencingdatabase.com/budapestsabre2021/DetailedHardAllensbigearedbat.mp4
+4816,3,DistantSparklingAlaskajingle,sabre,fotr,fotr_half,front_arm,1700118645,DistantSparklingAlaskajingle,montrealsabre2020,sabre,male,Arne De   Ridder,Daryl Homer,6,13,left,https://clips.fencingdatabase.com/montrealsabre2020/DistantSparklingAlaskajingle.mp4
+4818,6,ForsakenFaintBlesbok,sabre,fotr,middle,front_arm,1700132105,ForsakenFaintBlesbok,eurochamps2022,sabre,female,Lika Jijieishvili,Araceli Navarro,7,7,right,https://clips.fencingdatabase.com/eurochamps2022/ForsakenFaintBlesbok.mp4
+4822,10,LateIllCrownofthornsstarfish,sabre,fotr,middle,hand,1700428362,LateIllCrownofthornsstarfish,algierssabre2022,sabre,female,Theodora Gkountoura,Saoussen Boudiaf,4,4,left,https://clips.fencingdatabase.com/algierssabre2022/LateIllCrownofthornsstarfish.mp4
+4823,11,AbsoluteAggravatingDromedary,sabre,fotl,middle,torso,1700428402,AbsoluteAggravatingDromedary,algierssabre2022,sabre,female,Paola Pliego,Yoon Jisu,8,5,left,https://clips.fencingdatabase.com/algierssabre2022/AbsoluteAggravatingDromedary.mp4
+4824,12,ShimmeringAgileAsiaticlesserfreshwaterclam,sabre,fotr,middle,hand,1700428465,ShimmeringAgileAsiaticlesserfreshwaterclam,algierssabre2022,sabre,female,Martina Criscio,Olga Kharlan,6,5,left,https://clips.fencingdatabase.com/algierssabre2022/ShimmeringAgileAsiaticlesserfreshwaterclam.mp4
+4825,13,EllipticalCluelessIndianspinyloach,sabre,fotr,middle,front_arm,1700428527,EllipticalCluelessIndianspinyloach,algierssabre2022,sabre,female,Despina Georgiadou,Claudia Rotili,1,0,left,https://clips.fencingdatabase.com/algierssabre2022/EllipticalCluelessIndianspinyloach.mp4
+4826,14,WelltodoPerkyJaguar,sabre,fotl,middle,front_arm,1700428581,WelltodoPerkyJaguar,algierssabre2022,sabre,female,Paola Pliego,Yoon Jisu,11,14,right,https://clips.fencingdatabase.com/algierssabre2022/WelltodoPerkyJaguar.mp4
+4827,15,IllfatedFarflungAlbacoretuna,sabre,fotr,middle,torso,1700428625,IllfatedFarflungAlbacoretuna,algierssabre2022,sabre,male,Tokunan Kenta,Lorenz Kempf,9,9,left,https://clips.fencingdatabase.com/algierssabre2022/IllfatedFarflungAlbacoretuna.mp4
+4828,16,GiganticForkedKusimanse,sabre,fotr,middle,torso,1700428667,GiganticForkedKusimanse,algierssabre2022,sabre,female,Pamela Brindamour,Nisanur Erbil,9,10,right,https://clips.fencingdatabase.com/algierssabre2022/GiganticForkedKusimanse.mp4
+4829,17,BlackPotableCurlew,sabre,fotr,fotl_warning_box,torso,1700428713,BlackPotableCurlew,algierssabre2022,sabre,female,Yoon Jisu,Nisanur Erbil,3,2,left,https://clips.fencingdatabase.com/algierssabre2022/BlackPotableCurlew.mp4
+4830,19,SafeFaintBlackrhino,sabre,fotl,middle,torso,1700428915,SafeFaintBlackrhino,algierssabre2022,sabre,female,Sara Balzer,Rebecca Gargano,3,5,left,https://clips.fencingdatabase.com/algierssabre2022/SafeFaintBlackrhino.mp4
+4831,20,JampackedEnviousBlackrussianterrier,sabre,fotr,fotr_warning_box,torso,1700428955,JampackedEnviousBlackrussianterrier,algierssabre2022,sabre,female,Martina Criscio,Emura Misaki,2,4,left,https://clips.fencingdatabase.com/algierssabre2022/JampackedEnviousBlackrussianterrier.mp4
+4832,21,DeadlyThisGalapagoshawk,sabre,fotr,middle,front_arm,1700429006,DeadlyThisGalapagoshawk,algierssabre2022,sabre,female,Theodora Gkountoura,Mukae Ayaka,4,2,left,https://clips.fencingdatabase.com/algierssabre2022/DeadlyThisGalapagoshawk.mp4
+4833,22,BountifulFondHadrosaurus,sabre,fotr,middle,torso,1700429048,BountifulFondHadrosaurus,algierssabre2022,sabre,female,Sara Balzer,Michela Battiston,11,12,right,https://clips.fencingdatabase.com/algierssabre2022/BountifulFondHadrosaurus.mp4
+4834,23,FoolishPossibleFossa,sabre,fotr,fotr_warning_box,foot,1700429090,FoolishPossibleFossa,algierssabre2022,sabre,female,Sara Balzer,Rebecca Gargano,11,8,left,https://clips.fencingdatabase.com/algierssabre2022/FoolishPossibleFossa.mp4
+4836,27,AnyComfortableIberianmidwifetoad,sabre,fotr,middle,hand,1700970975,AnyComfortableIberianmidwifetoad,algierssabre2022,sabre,female,Despina Georgiadou,Zhuang Chenyi,13,5,left,https://clips.fencingdatabase.com/algierssabre2022/AnyComfortableIberianmidwifetoad.mp4
+4837,28,GrimHardtofindCrustacean,sabre,fotr,fotr_warning_box,torso,1700971028,GrimHardtofindCrustacean,algierssabre2022,sabre,female,Theodora Gkountoura,Saoussen Boudiaf,3,4,left,https://clips.fencingdatabase.com/algierssabre2022/GrimHardtofindCrustacean.mp4
+4838,29,ExcellentJauntyBobcat,sabre,fotl,fotl_half,torso,1700971066,ExcellentJauntyBobcat,algierssabre2022,sabre,female,Elisabeth Gette,Pusztai Liza,10,9,left,https://clips.fencingdatabase.com/algierssabre2022/ExcellentJauntyBobcat.mp4
+4839,30,PerfumedTenseAffenpinscher,sabre,fotr,fotr_warning_box,hand,1700971132,PerfumedTenseAffenpinscher,algierssabre2022,sabre,female,Despina Georgiadou,Claudia Rotili,6,1,left,https://clips.fencingdatabase.com/algierssabre2022/PerfumedTenseAffenpinscher.mp4
+4840,31,ForsakenWarmheartedAustralianshelduck,sabre,fotr,middle,head,1700971186,ForsakenWarmheartedAustralianshelduck,algierssabre2022,sabre,female,Sara Balzer,Michela Battiston,9,10,right,https://clips.fencingdatabase.com/algierssabre2022/ForsakenWarmheartedAustralianshelduck.mp4
+4841,32,InnocentPlayfulBlobfish,sabre,fotl,fotl_warning_box,torso,1700971247,InnocentPlayfulBlobfish,algierssabre2022,sabre,female,Despina Georgiadou,Claudia Rotili,15,6,left,https://clips.fencingdatabase.com/algierssabre2022/InnocentPlayfulBlobfish.mp4
+4842,33,InbornFlickeringAsianelephant,sabre,fotr,middle,torso,1700971289,InbornFlickeringAsianelephant,algierssabre2022,sabre,female,Toscane Tori,Sara Balzer,0,2,right,https://clips.fencingdatabase.com/algierssabre2022/InbornFlickeringAsianelephant.mp4
+4843,34,GrayPalatableKoala,sabre,fotl,fotl_half,front_arm,1700971358,GrayPalatableKoala,algierssabre2022,sabre,female,Sara Balzer,Martina Criscio,9,4,right,https://clips.fencingdatabase.com/algierssabre2022/GrayPalatableKoala.mp4
+4844,35,ArtisticMessyAfricanpiedkingfisher,sabre,fotr,middle,torso,1700971425,ArtisticMessyAfricanpiedkingfisher,algierssabre2022,sabre,female,Zhuang Chenyi,Mathilde Mouroux,8,14,left,https://clips.fencingdatabase.com/algierssabre2022/ArtisticMessyAfricanpiedkingfisher.mp4
+4845,36,RawEarlyArmyant,sabre,fotr,middle,front_arm,1700971470,RawEarlyArmyant,algierssabre2022,sabre,female,Sara Balzer,Martina Criscio,5,2,left,https://clips.fencingdatabase.com/algierssabre2022/RawEarlyArmyant.mp4
+4847,41,PositiveUnfoldedBassethound,sabre,fotr,middle,head,1701645109,PositiveUnfoldedBassethound,algierssabre2022,sabre,female,Despina Georgiadou,Theodora Gkountoura,1,0,left,https://clips.fencingdatabase.com/algierssabre2022/PositiveUnfoldedBassethound.mp4
+4848,42,HideousRewardingBluetonguelizard,sabre,fotl,fotr_warning_box,torso,1701645212,HideousRewardingBluetonguelizard,algierssabre2022,sabre,female,Theodora Gkountoura,Mukae Ayaka,11,9,left,https://clips.fencingdatabase.com/algierssabre2022/HideousRewardingBluetonguelizard.mp4
+4849,43,SpecificImmaculateGardensnake,sabre,fotl,middle,torso,1701645270,SpecificImmaculateGardensnake,algierssabre2022,sabre,female,Saoussen Boudiaf,Pusztai Liza,2,0,left,https://clips.fencingdatabase.com/algierssabre2022/SpecificImmaculateGardensnake.mp4
+4850,44,SoulfulImpassionedAplomadofalcon,sabre,fotl,fotr_warning_box,torso,1701645371,SoulfulImpassionedAplomadofalcon,algierssabre2022,sabre,female,Yoon Jisu,Nisanur Erbil,5,5,right,https://clips.fencingdatabase.com/algierssabre2022/SoulfulImpassionedAplomadofalcon.mp4
+4851,45,CleverDaringCockroach,sabre,fotl,middle,torso,1701645420,CleverDaringCockroach,algierssabre2022,sabre,female,Theodora Gkountoura,Seo Jiyeon,11,6,right,https://clips.fencingdatabase.com/algierssabre2022/CleverDaringCockroach.mp4
+4852,46,TeemingEmbarrassedButterfly,sabre,fotr,middle,hand,1701645479,TeemingEmbarrassedButterfly,algierssabre2022,sabre,female,Despina Georgiadou,Zhuang Chenyi,0,1,right,https://clips.fencingdatabase.com/algierssabre2022/TeemingEmbarrassedButterfly.mp4
+4853,47,BlandEllipticalAmmonite,sabre,fotl,middle,torso,1701645554,BlandEllipticalAmmonite,algierssabre2022,sabre,female,Theodora Gkountoura,Saoussen Boudiaf,14,11,left,https://clips.fencingdatabase.com/algierssabre2022/BlandEllipticalAmmonite.mp4
+4854,48,SpectacularNimbleGonolek,sabre,fotl,middle,head,1701645620,SpectacularNimbleGonolek,algierssabre2022,sabre,female,Despina Georgiadou,Zhuang Chenyi,7,5,left,https://clips.fencingdatabase.com/algierssabre2022/SpectacularNimbleGonolek.mp4
+4855,49,IdenticalFelineAngora,sabre,fotr,middle,hand,1701645664,IdenticalFelineAngora,algierssabre2022,sabre,female,Martina Criscio,Emura Misaki,1,1,left,https://clips.fencingdatabase.com/algierssabre2022/IdenticalFelineAngora.mp4
+4856,50,ElegantMiserlyDobermanpinscher,sabre,fotr,middle,hand,1701645700,ElegantMiserlyDobermanpinscher,algierssabre2022,sabre,female,Martina Criscio,Emura Misaki,1,4,right,https://clips.fencingdatabase.com/algierssabre2022/ElegantMiserlyDobermanpinscher.mp4
+4859,56,DependentTenseAfricangoldencat,sabre,fotl,middle,front_arm,1701960773,DependentTenseAfricangoldencat,algierssabre2022,sabre,male,Raoul Bonah,Sebastien Patrice,4,6,right,https://clips.fencingdatabase.com/algierssabre2022/DependentTenseAfricangoldencat.mp4
+4860,57,goodKnightAnoleDikDik,sabre,fotl,middle,head,1702052283,goodKnightAnoleDikDik,eurossabre2023,sabre,female,Sara Balzer,Zuzanna Cieslar,9,6,left,https://clips.fencingdatabase.com/eurossabre2023/goodKnightAnoleDikDik.mp4
+4862,59,ThornyKindKingbird,sabre,fotl,middle,torso,1702052440,ThornyKindKingbird,orleanssabre2021,sabre,,Svetlana Sheveleva,Olga Nikitina,7,5,right,https://clips.fencingdatabase.com/orleanssabre2021/ThornyKindKingbird.mp4
+4864,63,CleanScientificGopher,sabre,fotl,fotl_warning_box,hand,1702565797,CleanScientificGopher,madridsabre2022,sabre,male,Frederic Kindler,Michele Gallo,2,3,right,https://clips.fencingdatabase.com/madridsabre2022/CleanScientificGopher.mp4
+4865,64,NervousAchingAyeaye,sabre,fotl,middle,torso,1702573189,NervousAchingAyeaye,cancunsabre2017,sabre,male,Matyas Szabo,Giovanni Repetti,2,0,left,https://clips.fencingdatabase.com/cancunsabre2017/NervousAchingAyeaye.mp4
+4866,66,hilariousThylacosmilusCarpenterAnt,sabre,fotr,fotl_half,front_arm,1702771712,hilariousThylacosmilusCarpenterAnt,seoulsabre2023,sabre,,Andriy Yagodka,Bolade Apithy,14,9,right,https://clips.fencingdatabase.com/seoulsabre2023/hilariousThylacosmilusCarpenterAnt.mp4
+4874,78,PowerlessCrazyIberianemeraldlizard,sabre,fotl,fotr_warning_box,hand,1703635503,PowerlessCrazyIberianemeraldlizard,algierssabre2022,sabre,female,Wakita Jumi,Saoussen Boudiaf,14,13,left,https://clips.fencingdatabase.com/algierssabre2022/PowerlessCrazyIberianemeraldlizard.mp4
+4875,79,DefiniteSaltyLangur,sabre,fotl,middle,torso,1703635543,DefiniteSaltyLangur,algierssabre2022,sabre,female,Anne Poupinet,Rebecca Gargano,4,7,left,https://clips.fencingdatabase.com/algierssabre2022/DefiniteSaltyLangur.mp4
+4876,80,BlackEarnestIrishwolfhound,sabre,fotl,middle,torso,1703635592,BlackEarnestIrishwolfhound,algierssabre2022,sabre,female,Paola Pliego,Yoon Jisu,5,5,left,https://clips.fencingdatabase.com/algierssabre2022/BlackEarnestIrishwolfhound.mp4
+4877,81,PortlyPartialAcaciarat,sabre,fotl,fotr_warning_box,torso,1703635670,PortlyPartialAcaciarat,algierssabre2022,sabre,female,Sara Balzer,Michela Battiston,3,4,right,https://clips.fencingdatabase.com/algierssabre2022/PortlyPartialAcaciarat.mp4
+4878,82,HandyTatteredAvocet,sabre,fotl,middle,torso,1703635720,HandyTatteredAvocet,algierssabre2022,sabre,female,Theodora Gkountoura,Mukae Ayaka,9,8,left,https://clips.fencingdatabase.com/algierssabre2022/HandyTatteredAvocet.mp4
+4879,83,NearMammothHectorsdolphin,sabre,fotl,fotr_half,front_arm,1703635801,NearMammothHectorsdolphin,algierssabre2022,sabre,male,Tokunan Kenta,Maxime Pianfetti,10,13,left,https://clips.fencingdatabase.com/algierssabre2022/NearMammothHectorsdolphin.mp4
+4880,84,GraciousUnawareBilby,sabre,fotr,middle,torso,1703635857,GraciousUnawareBilby,algierssabre2022,sabre,female,Yoon Jisu,Nisanur Erbil,12,11,right,https://clips.fencingdatabase.com/algierssabre2022/GraciousUnawareBilby.mp4
+4881,85,FineFatalGlobefish,sabre,fotl,middle,front_arm,1703635940,FineFatalGlobefish,algierssabre2022,sabre,female,Wakita Jumi,Saoussen Boudiaf,5,1,left,https://clips.fencingdatabase.com/algierssabre2022/FineFatalGlobefish.mp4
+4882,86,AntiqueChiefAmethystsunbird,sabre,fotl,middle,torso,1703635983,AntiqueChiefAmethystsunbird,algierssabre2022,sabre,female,Despina Georgiadou,Claudia Rotili,7,1,left,https://clips.fencingdatabase.com/algierssabre2022/AntiqueChiefAmethystsunbird.mp4
+4883,89,IdealDefinitiveGerbil,sabre,fotl,fotr_warning_box,front_arm,1704313632,IdealDefinitiveGerbil,worldchamps2022,sabre,female,Martina Criscio,Olga Kharlan,4,6,left,https://clips.fencingdatabase.com/worldchamps2022/IdealDefinitiveGerbil.mp4
+4887,93,ImpossibleLimitedArizonaalligatorlizard,sabre,fotr,middle,front_arm,1705804760,ImpossibleLimitedArizonaalligatorlizard,madridsabre2022,sabre,male,Mohammad Rahbari,Bolade Apithy,7,4,left,https://clips.fencingdatabase.com/madridsabre2022/ImpossibleLimitedArizonaalligatorlizard.mp4
+4892,98,LinearElatedDeermouse,sabre,fotl,middle,hand,1705804887,LinearElatedDeermouse,worldchamps2022,sabre,female,Sarah Noutcha,Araceli Navarro,4,8,right,https://clips.fencingdatabase.com/worldchamps2022/LinearElatedDeermouse.mp4
+4895,1,zanyEyelashViperCornSnake,sabre,fotr,middle,front_arm,1705805050,zanyEyelashViperCornSnake,champssabre2023,sabre,male,Matei Cidu,Gemesi Csanad,8,6,left,https://clips.fencingdatabase.com/champssabre2023/zanyEyelashViperCornSnake.mp4
+4897,3,importantZonkeyBatfish,sabre,fotr,middle,front_arm,1705805259,importantZonkeyBatfish,seoulsabre2023,sabre,,Ha Hansol,Szatmari Andras,13,7,left,https://clips.fencingdatabase.com/seoulsabre2023/importantZonkeyBatfish.mp4
+4899,5,ConsiderateGivingIlladopsis,sabre,fotl,middle,torso,1705805348,ConsiderateGivingIlladopsis,worldchamps2022,sabre,female,Anna Bashta,Martina Criscio,4,1,left,https://clips.fencingdatabase.com/worldchamps2022/ConsiderateGivingIlladopsis.mp4
+4904,11,MilkySlushyFlounder,sabre,fotl,fotr_warning_box,torso,1705806056,MilkySlushyFlounder,cancunsabre2017,sabre,male,Luigi Samele,Oh Sanguk,6,8,right,https://clips.fencingdatabase.com/cancunsabre2017/MilkySlushyFlounder.mp4
+4907,14,WastefulGratefulAuk,sabre,fotr,fotl_warning_box,head,1705806276,WastefulGratefulAuk,madridsabre2022,sabre,male,Lester Kurvers,Luis Bonah,2,3,right,https://clips.fencingdatabase.com/madridsabre2022/WastefulGratefulAuk.mp4
+4909,16,enthusiasticSarplaninacVampireBat,sabre,neither,middle,torso,1705806362,enthusiasticSarplaninacVampireBat,batumisabre2023,sabre,female,Olga Kharlan,Marton Anna,0,2,right,https://clips.fencingdatabase.com/batumisabre2023/enthusiasticSarplaninacVampireBat.mp4
+4917,28,unsightlyLarderBeetleHarpyEagle,sabre,fotr,middle,torso,1705954801,unsightlyLarderBeetleHarpyEagle,seoulsabre2023,sabre,,Jeon Eunhye,Olga Kharlan,8,14,right,https://clips.fencingdatabase.com/seoulsabre2023/unsightlyLarderBeetleHarpyEagle.mp4
+4923,38,RegalGrandAppaloosa,sabre,,fotl_warning_box,hand,1705955337,RegalGrandAppaloosa,tokyoolympics2020,sabre,female,Choi Sooyeon,Cecilia Berder,1,2,right,https://clips.fencingdatabase.com/tokyoolympics2020/RegalGrandAppaloosa.mp4
+4924,39,CanineFalseBluebreastedkookaburra,sabre,,fotl_warning_box,hand,1705955342,CanineFalseBluebreastedkookaburra,tunissabre2017,sabre,female,Iryna Shchukla,Olga Zhovnir,8,10,left,https://clips.fencingdatabase.com/tunissabre2017/CanineFalseBluebreastedkookaburra.mp4
+4932,56,AdoredCautiousGreyhounddog,sabre,fotr,middle,torso,1707121361,AdoredCautiousGreyhounddog,orleanssabre2022,sabre,,Veronika Vasileva,Rebecca Gargano,5,8,left,https://clips.fencingdatabase.com/orleanssabre2022/AdoredCautiousGreyhounddog.mp4
+4938,65,FamousDistinctBlacklemur,sabre,fotl,fotl_half,torso,1708271942,FamousDistinctBlacklemur,budapestsabre2021,sabre,,Lee Jonghyun,Max Hartung,3,1,right,https://clips.fencingdatabase.com/budapestsabre2021/FamousDistinctBlacklemur.mp4
+4939,68,CompetentDeterminedAmericanpainthorse,sabre,fotr,middle,torso,1708527279,CompetentDeterminedAmericanpainthorse,moscowwch2015,sabre,,Szatmari Andras,Mohamed Amer,12,14,right,https://clips.fencingdatabase.com/moscowwch2015/CompetentDeterminedAmericanpainthorse.mp4
+4940,69,jealousMuleDeerMealwormBeetle,sabre,fotl,fotr_half,torso,1708527317,jealousMuleDeerMealwormBeetle,seoulsabre2023,sabre,,Pusztai Liza,Fukushima Shihomi,7,8,left,https://clips.fencingdatabase.com/seoulsabre2023/jealousMuleDeerMealwormBeetle.mp4
+4941,70,ArtisticCreepyJaguarundi,sabre,neither,middle,torso,1708527501,ArtisticCreepyJaguarundi,budapestsabre2019,sabre,male,Joseph Polossifakis,Fabien Ballorca,3,4,left,https://clips.fencingdatabase.com/budapestsabre2019/ArtisticCreepyJaguarundi.mp4
+4945,80,IncomparableDemandingDormouse,sabre,,fotl_warning_box,hand,1708953409,IncomparableDemandingDormouse,madridsabre2022,sabre,male,Eyad Marouf,Maxence Lambert,5,4,left,https://clips.fencingdatabase.com/madridsabre2022/IncomparableDemandingDormouse.mp4
+4946,81,MiniatureGranularFinnishspitz,sabre,,fotl_warning_box,hand,1708953447,MiniatureGranularFinnishspitz,paduasabre2022,sabre,,Eliott Bibi,Song Seungheon,10,8,left,https://clips.fencingdatabase.com/paduasabre2022/MiniatureGranularFinnishspitz.mp4
+4954,90,shyBulldogMixLittleBrownBat,sabre,fotr,middle,torso,1709937430,shyBulldogMixLittleBrownBat,tunissabre2024,sabre,,Adham Moataz,Colin Heathcock,3,9,right,https://clips.fencingdatabase.com/tunissabre2024/shyBulldogMixLittleBrownBat.mp4
+4956,93,PastWeeHorsefly,sabre,fotr,fotl_half,front_arm,1710992904,PastWeeHorsefly,worldchamps2022,sabre,male,Szilagyi Aron,Xu Yingming,1,1,left,https://clips.fencingdatabase.com/worldchamps2022/PastWeeHorsefly.mp4
+4957,95,unusualJumpingSpiderSixEyedSandSpiders,sabre,fotr,middle,head,1711116296,unusualJumpingSpiderSixEyedSandSpiders,tunissabre2024,sabre,,Oh Sanguk,Fares Ferjani,3,9,right,https://clips.fencingdatabase.com/tunissabre2024/unusualJumpingSpiderSixEyedSandSpiders.mp4
+4961,0,GenuineCoarseBushsqueaker,sabre,fotl,middle,head,1711395099,GenuineCoarseBushsqueaker,budapestsabre2021,sabre,,Vincent Anstett,Yousef Alshamlan,5,5,right,https://clips.fencingdatabase.com/budapestsabre2021/GenuineCoarseBushsqueaker.mp4
