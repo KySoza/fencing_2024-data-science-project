@@ -1,4 +1,4 @@
-# Predicting fencign success
+# Predicting fencing success
 
 Fencing is one of the five original Olympic sports. Despite being rooted in historical European dueling tradition, fencing is a living sport. Changes in technical execution and strategic conceptualization have evolved as new minds and athletes participate, creating a culture where new schools of thought often usurp the old. The most recent coaching schema has reduced the importance of a “this for that” approach to fencing actions in favor of steadily applying pressure until favorable conditions are created. Using high-level, international data, we want to test this coaching schema by answering the following questions:
 * How does aggression predict scoring success?
